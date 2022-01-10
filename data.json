@@ -1,0 +1,52 @@
+{
+    "details" :[
+        {
+            "cont_name": "India",
+            "cout_img": "URL",
+            "english":{
+                "facts":[
+                    {
+                        "story": "dsgfasdgf",
+                        "imgUrl": "dsahfdh"
+                    },
+                    {
+                        "story": "dsgfasdgf",
+                        "imgUrl": "dsahfdh"
+    
+                    },
+                    {
+                        "story": "dsgfasdgf",
+                        "imgUrl": "dsahfdh"
+    
+                    }
+                ]
+            },
+            "regional":{
+                "reg_name": "",
+                "facts":[
+                    {
+                        "title": "AHDJSWHGF",
+                        "tag": "General",
+                        "story": "dsgfasdgf",
+                        "imgUrl": "dsahfdh"
+    
+                    }
+                ]
+            },
+            "hindi":{
+                "hi_name": "",
+                "facts":[
+                    {
+                        "title": "AHDJSWHGF",
+                        "tag": "General",
+                        "story": "dsgfasdgf",
+                        "imgUrl": "dsahfdh"
+                    }
+                ]
+            }
+            
+        }
+        
+    ]
+}
+
