@@ -1,52 +1,1384 @@
 {
-    "details" :[
+    "details": [
         {
             "cont_name": "India",
-            "cout_img": "URL",
-            "english":{
-                "facts":[
+            "cout_img": "https://th.bing.com/th/id/OIP.Chp1vPL3czYd9Zs4rXIPqgHaHa?w=171&h=180&c=7&r=0&o=5&pid=1.7",
+            "english": {
+                "facts": [
                     {
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
+                        "story": "First Rocket of India (ISRO) Transported by a Bicycle",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/2_20180530174235.jpg"
                     },
                     {
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
-    
+                        "story": "World's Highest Rail Bridge in Jammu",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Chenab-Bridge_20180530175804.jpg"
                     },
                     {
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
-    
+                        "story": "The Number of People Travelling in the Indian Railways Every Day is Equal to the Population of Australia",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Indian_railways_20180530180330.jpg"
+                    },
+                    {
+                        "story": " There's a Day Dedicated To Dr.A.P.J. Abdul Kalam in Switzerland Called Science Day!-(He visited switerzland on 26th May 2006 so that day is nationally known as Science Day in Switzerland.",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/640px-Dr._A.P.J_Abdul_Kalam_(4048070416)_20190327164803.jpg"
+                    },
+                    {
+                        "story": " Uttarakhand's Roopkund is infamous for hundreds of human skeletons found at the bottom of the lake and in the surrounding areas.",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Roopkund,Trishul,Himalayas_20180530181046.jpg"
+                    },
+                    {
+                        "story": "The world's highest motorable road greets you at Ladakh at an elevation of over 19,300 feet",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/800px-Khardung_La_ladakh_001_20180530181310.jpg"
+                    },
+                    {
+                        "story": "Tea had been growing in India for centuries before the British began its commercial cultivation. The first recorded mention of tea in the country dates back to 750 BCE, and it was reportedly also consumed as a vegetable dish, fried in oil with garlic",
+                        "imgUrl": "https://deih43ym53wif.cloudfront.net/large_Tea%20plantations%20in%20Munnar%2C%20Kerala%2C%20India_26a64afc5d.jpeg"
+                    },
+                    {
+                        "story": "Mumbai - The wires that holds the bandra worli SEA link is equal to the earths circumfarance ",
+                        "imgUrl": "https://images.unsplash.com/photo-1562077790-b946f1c6106e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d29ybGklMjBzZWElMjBsaW5rfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                    },
+                    {
+                        "story": "The Ancient India Facts consist of the Kailasa Temple (1200-year-old) in Aurangabad was carved out of a single rock.",
+                        "imgUrl": "https://presentmirror.com/media/category_entertainment/EKRXkdTUwAAKDO5.jpg"
+                    },
+                    {
+                        "story": "The Mysore Palace in Mysore, Karnataka is the most visited monument in India even more than the Taj Mahal in Agra, Uttar Pradesh.",
+                        "imgUrl": "https://images.unsplash.com/photo-1580294647332-8a399cd9ed45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bXlzb3JlJTIwcGFsYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
                     }
                 ]
             },
-            "regional":{
-                "reg_name": "",
-                "facts":[
+            "regional": {
+                "reg_name": "Hindi",
+                "facts": [
                     {
-                        "title": "AHDJSWHGF",
-                        "tag": "General",
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
-    
+                        "story": "भारत का पहला रॉकेट (इसरो) एक साइकिल द्वारा ले जाया गया",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/2_20180530174235.jpg"
+                    },
+                    {
+                        "story": "जम्मू में दुनिया का सबसे ऊंचा रेल ब्रिज",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Chenab-Bridge_20180530175804.jpg"
+                    },
+                    {
+                        "story": "भारतीय रेलवे में प्रतिदिन यात्रा करने वाले लोगों की संख्या ऑस्ट्रेलिया की जनसंख्या के बराबर है",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Indian_railways_20180530180330.jpg"
+                    },
+                    {
+                        "story": "डॉ.ए.पी.जे को समर्पित एक दिन है। स्विट्जरलैंड में अब्दुल कलाम ने विज्ञान दिवस कहा! - (उन्होंने 26 मई 2006 को स्विट्जरलैंड का दौरा किया, इसलिए उस दिन को स्विट्जरलैंड में विज्ञान दिवस के रूप में जाना जाता है।",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/640px-Dr._A.P.J_Abdul_Kalam_(4048070416)_20190327164803.jpg"
+                    },
+                    {
+                        "story": " उत्तराखंड का रूपकुंड झील के तल और आसपास के इलाकों में पाए जाने वाले सैकड़ों मानव कंकालों के लिए बदनाम है।",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Roopkund,Trishul,Himalayas_20180530181046.jpg"
+                    },
+                    {
+                        "story": "दुनिया की सबसे ऊंची मोटर योग्य सड़क 19,300 फीट से अधिक की ऊंचाई पर लद्दाख में आपका स्वागत करती है",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/800px-Khardung_La_ladakh_001_20180530181310.jpg"
+                    },
+                    {
+                        "story": "अंग्रेजों द्वारा अपनी व्यावसायिक खेती शुरू करने से पहले से ही भारत में चाय की खेती सदियों से होती आ रही थी। देश में चाय का पहला उल्लेख 750 ईसा पूर्व का है, और कथित तौर पर इसका सेवन सब्जी के रूप में भी किया जाता था, जिसे लहसुन के साथ तेल में तला जाता था।",
+                        "imgUrl": "https://deih43ym53wif.cloudfront.net/large_Tea%20plantations%20in%20Munnar%2C%20Kerala%2C%20India_26a64afc5d.jpeg"
+                    },
+                    {
+                        "story": "मुंबई - बांद्रा वर्ली एसईए लिंक रखने वाले तार पृथ्वी की परिधि के बराबर होते हैं ",
+                        "imgUrl": "https://images.unsplash.com/photo-1562077790-b946f1c6106e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d29ybGklMjBzZWElMjBsaW5rfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                    },
+                    {
+                        "story": "प्राचीन भारत के तथ्य औरंगाबाद में कैलाश मंदिर (1200 साल पुराने) से मिलकर बने हैं, जिसे एक ही चट्टान से तराश कर बनाया गया था।",
+                        "imgUrl": "https://presentmirror.com/media/category_entertainment/EKRXkdTUwAAKDO5.jpg"
+                    },
+                    {
+                        "story": "मैसूर, कर्नाटक में मैसूर पैलेस भारत में सबसे अधिक देखा जाने वाला स्मारक है, जो उत्तर प्रदेश के आगरा में ताजमहल से भी अधिक है।",
+                        "imgUrl": "https://images.unsplash.com/photo-1580294647332-8a399cd9ed45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bXlzb3JlJTIwcGFsYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
                     }
                 ]
             },
-            "hindi":{
-                "hi_name": "",
-                "facts":[
+            "hindi": {
+                "hi_name": "Hindi",
+                "facts": [
                     {
-                        "title": "AHDJSWHGF",
-                        "tag": "General",
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
+                        "story": "भारत का पहला रॉकेट (इसरो) एक साइकिल द्वारा ले जाया गया",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/2_20180530174235.jpg"
+                    },
+                    {
+                        "story": "जम्मू में दुनिया का सबसे ऊंचा रेल ब्रिज",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Chenab-Bridge_20180530175804.jpg"
+                    },
+                    {
+                        "story": "भारतीय रेलवे में प्रतिदिन यात्रा करने वाले लोगों की संख्या ऑस्ट्रेलिया की जनसंख्या के बराबर है",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Indian_railways_20180530180330.jpg"
+                    },
+                    {
+                        "story": "डॉ.ए.पी.जे को समर्पित एक दिन है। स्विट्जरलैंड में अब्दुल कलाम ने विज्ञान दिवस कहा! - (उन्होंने 26 मई 2006 को स्विट्जरलैंड का दौरा किया, इसलिए उस दिन को स्विट्जरलैंड में विज्ञान दिवस के रूप में जाना जाता है।",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/640px-Dr._A.P.J_Abdul_Kalam_(4048070416)_20190327164803.jpg"
+                    },
+                    {
+                        "story": " उत्तराखंड का रूपकुंड झील के तल और आसपास के इलाकों में पाए जाने वाले सैकड़ों मानव कंकालों के लिए बदनाम है।",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/Roopkund,Trishul,Himalayas_20180530181046.jpg"
+                    },
+                    {
+                        "story": "दुनिया की सबसे ऊंची मोटर योग्य सड़क 19,300 फीट से अधिक की ऊंचाई पर लद्दाख में आपका स्वागत करती है",
+                        "imgUrl": "https://www.holidify.com/images/cmsuploads/compressed/800px-Khardung_La_ladakh_001_20180530181310.jpg"
+                    },
+                    {
+                        "story": "अंग्रेजों द्वारा अपनी व्यावसायिक खेती शुरू करने से पहले से ही भारत में चाय की खेती सदियों से होती आ रही थी। देश में चाय का पहला उल्लेख 750 ईसा पूर्व का है, और कथित तौर पर इसका सेवन सब्जी के रूप में भी किया जाता था, जिसे लहसुन के साथ तेल में तला जाता था।",
+                        "imgUrl": "https://deih43ym53wif.cloudfront.net/large_Tea%20plantations%20in%20Munnar%2C%20Kerala%2C%20India_26a64afc5d.jpeg"
+                    },
+                    {
+                        "story": "मुंबई - बांद्रा वर्ली एसईए लिंक रखने वाले तार पृथ्वी की परिधि के बराबर होते हैं ",
+                        "imgUrl": "https://images.unsplash.com/photo-1562077790-b946f1c6106e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d29ybGklMjBzZWElMjBsaW5rfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                    },
+                    {
+                        "story": "प्राचीन भारत के तथ्य औरंगाबाद में कैलाश मंदिर (1200 साल पुराने) से मिलकर बने हैं, जिसे एक ही चट्टान से तराश कर बनाया गया था।",
+                        "imgUrl": "https://presentmirror.com/media/category_entertainment/EKRXkdTUwAAKDO5.jpg"
+                    },
+                    {
+                        "story": "मैसूर, कर्नाटक में मैसूर पैलेस भारत में सबसे अधिक देखा जाने वाला स्मारक है, जो उत्तर प्रदेश के आगरा में ताजमहल से भी अधिक है।",
+                        "imgUrl": "https://images.unsplash.com/photo-1580294647332-8a399cd9ed45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bXlzb3JlJTIwcGFsYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
                     }
                 ]
             }
-            
+        },
+        {
+            "cont_name": "United Arab Emirates (UAE)",
+            "cout_img": "https://media.istockphoto.com/photos/dubai-marina-picture-id467829216?b=1&k=20&m=467829216&s=170667a&w=0&h=axrdEjmP9M3aUtuc-HKs5KIuQ-h02rz8xQKCkWiWpRI=",
+            "english": {
+                "facts": [
+                    {
+                        "story": "The world’s largest manmade island, Palm Jumeirah is home to lavish luxury villas, pristine private stretches of white sand and luxury hotels. Interestingly, it took 10.5 million dump trucks worth of sand to create it.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2019/05/21/1.1350854_3828130815_16adad077c6_original-ratio.jpg"
+                    },
+                    {
+                        "story": "Both situated in Dubai - Gevora is the world’s tallest four star hotel at 356 metres while JW Marriott Marquis is the world’s tallest five star hotel at 355 metres.",
+                        "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5400000/5399400/5399338/57e25073_z.jpg?impolicy=fcrop&w=773&h=530&q=high"
+                    },
+                    {
+                        "story": "Ferrari owns the largest indoor theme park in Abu Dhabi. Their rollercoaster, the Rosso, is the World’s fastest, reaching 150mph in 5 seconds.",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/978/73/99/ferrari-ferrari-world-abu-dhabi-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "Terminal 3 of the Dubai International Airport is the largest airport terminal in the world.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2011/3/13/1_16a0808ef2d.775785_1860986310_16a0808ef2d_original-ratio.jpg"
+                    },
+                    {
+                        "story": "The official religion of the UAE is Islam but it is home to over 40 churches and cathedrals as well as other places of worship for other faiths.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2020/02/27/Reader-picture_17086141ab0_original-ratio.jpg"
+                    },
+                    {
+                        "story": "The UAE is one of the driest countries on earth, but it has such powerful technology that they can literally make it rain through cloud seeding, the process of increasing the amount of rain produced from clouds.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2018/11/07/Cloud_seeding_resources1_16a08531a7a_original-ratio.jpg"
+                    },
+                    {
+                        "story": "The Burj Khalifa’s stairwell has an incredible 2,909 steps leading all the way up to the 160th floor. Ladders are used to climb any higher than that.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2020/11/25/A-shot-of-Dubai-Burj-Khalifa--the-world-s-tallest-building--on-a-clear-day.--_175ffc07920_original-ratio.jpg"
+                    },
+                    {
+                        "story": "The Dubai Aquarium Tank is the largest suspended aquarium in the world. It holds 10 million litres of water, hosts more than 33,000 aquatic animals from over 200 species, and even features the world’s largest single pane of acrylic glass",
+                        "imgUrl": "https://www.trawell.in/admin/images/upload/127010604Dubai_Aquarium.jpg"
+                    },
+                    {
+                        "story": "While many might think that it is the camel, the UAE’s national animal is actually the majestic Arabian Oryx, a type of desert antelope. The Arabian oryx is also a UAE currency symbol on the obverse of the 50 dirham note.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2021/03/04/Arabian-Oryx-_177fda26a1f_original-ratio.jpg"
+                    },
+                    {
+                        "story": " The Capital Gate in Abu Dhabi is the world’s most inclined building. It has 35 floors and boasts an 18 degree lean, which is 14 degrees more than the Leaning Tower of Pisa.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2010/6/5/1_16a08069f71.637312_3413588051_16a08069f71_original-ratio.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "Arabic",
+                "facts": [
+                    {
+                        "story": "تعد نخلة جميرا ، أكبر جزيرة من صنع الإنسان في العالم ، موطنًا للفيلات الفخمة الفخمة والمساحات الخاصة البكر من الرمال البيضاء والفنادق الفاخرة. ومن المثير للاهتمام ، أن صنعه استغرق 10.5 مليون شاحنة قلابة من الرمل",
+                        "imgUrl": "https://imagevars.gulfnews.com/2019/05/21/1.1350854_3828130815_16adad077c6_original-ratio.jpg"
+                    },
+                    {
+                        "story": "يقع كلاهما في دبي - جيفورا هو أطول فندق أربع نجوم في العالم يبلغ ارتفاعه 356 مترًا بينما يعد جي دبليو ماريوت ماركيز أطول فندق خمس نجوم في العالم بارتفاع 355 مترًا.",
+                        "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5400000/5399400/5399338/57e25073_z.jpg?impolicy=fcrop&w=773&h=530&q=high"
+                    },
+                    {
+                        "story": "تمتلك فيراري أكبر منتزه داخلي في أبو ظبي. أفعوانية روسو هي الأسرع في العالم ، حيث تصل سرعتها إلى 150 ميلاً في الساعة في 5 ثوانٍ.",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/978/73/99/ferrari-ferrari-world-abu-dhabi-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "المبنى رقم 3 بمطار دبي الدولي هو أكبر مبنى مطار في العالم.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2011/3/13/1_16a0808ef2d.775785_1860986310_16a0808ef2d_original-ratio.jpg"
+                    },
+                    {
+                        "story": "الدين الرسمي لدولة الإمارات العربية المتحدة هو الإسلام ، لكنها موطن لأكثر من 40 كنيسة وكاتدرائية بالإضافة إلى أماكن عبادة أخرى للأديان الأخرى.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2020/02/27/Reader-picture_17086141ab0_original-ratio.jpg"
+                    },
+                    {
+                        "story": "الإمارات العربية المتحدة هي واحدة من أكثر الدول جفافاً على وجه الأرض ، لكن لديها تقنية قوية لدرجة أنها تجعلها تمطر حرفياً من خلال استمطار السحب ، وهي عملية زيادة كمية الأمطار الناتجة عن السحب.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2018/11/07/Cloud_seeding_resources1_16a08531a7a_original-ratio.jpg"
+                    },
+                    {
+                        "story": "يحتوي درج برج خليفة على 2909 درجة لا تصدق تؤدي إلى الطابق 160. يتم استخدام السلالم لتسلق أعلى من ذلك.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2020/11/25/A-shot-of-Dubai-Burj-Khalifa--the-world-s-tallest-building--on-a-clear-day.--_175ffc07920_original-ratio.jpg"
+                    },
+                    {
+                        "story": "يعد حوض أكواريوم دبي أكبر حوض مائي معلق في العالم. تحتوي على 10 ملايين لتر من الماء ، وتستضيف أكثر من 33000 حيوان مائي من أكثر من 200 نوع ، كما أنها تحتوي على أكبر لوح زجاجي أكريليك في العالم",
+                        "imgUrl": "https://www.trawell.in/admin/images/upload/127010604Dubai_Aquarium.jpg"
+                    },
+                    {
+                        "story": "في حين قد يعتقد الكثيرون أنه الجمل ، فإن الحيوان الوطني لدولة الإمارات العربية المتحدة هو في الواقع المها العربي المهيب ، وهو نوع من الظباء الصحراوية. المها العربي هو أيضًا رمز عملة الإمارات العربية المتحدة على وجه العملة الورقية فئة 50 درهمًا.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2021/03/04/Arabian-Oryx-_177fda26a1f_original-ratio.jpg"
+                    },
+                    {
+                        "story": "كابيتال جيت في أبو ظبي هو المبنى الأكثر انحدارًا في العالم. يتكون من 35 طابقًا ويتميز بارتفاع 18 درجة ، وهو ما يزيد بمقدار 14 درجة عن برج بيزا المائل.",
+                        "imgUrl": "https://imagevars.gulfnews.com/2010/6/5/1_16a08069f71.637312_3413588051_16a08069f71_original-ratio.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "Hindi",
+                "facts": [
+                    {
+                        "story": "दुनिया का सबसे बड़ा मानव निर्मित द्वीप, पाम जुमेराह भव्य लक्ज़री विला, सफेद रेत के प्राचीन निजी हिस्सों और लक्ज़री होटलों का घर है। दिलचस्प बात यह है कि इसे बनाने में 10.5 मिलियन डंप ट्रक की कीमत की रेत लगी।",
+                        "imgUrl": "https://imagevars.gulfnews.com/2019/05/21/1.1350854_3828130815_16adad077c6_original-ratio.jpg"
+                    },
+                    {
+                        "story": "दोनों दुबई में स्थित हैं - गेवोरा 356 मीटर पर दुनिया का सबसे ऊंचा चार सितारा होटल है जबकि जेडब्ल्यू मैरियट मार्क्विस 355 मीटर पर दुनिया का सबसे ऊंचा पांच सितारा होटल है।",
+                        "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5400000/5399400/5399338/57e25073_z.jpg?impolicy=fcrop&w=773&h=530&q=high"
+                    },
+                    {
+                        "story": "फेरारी अबू धाबी में सबसे बड़ा इनडोर थीम पार्क का मालिक है। उनका रोलरकोस्टर, रोसो, दुनिया का सबसे तेज़ है, जो 5 सेकंड में 150mph तक पहुँच जाता है।",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/978/73/99/ferrari-ferrari-world-abu-dhabi-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "दुबई अंतरराष्ट्रीय हवाई अड्डे का टर्मिनल 3 दुनिया का सबसे बड़ा हवाई अड्डा टर्मिनल है।",
+                        "imgUrl": "https://imagevars.gulfnews.com/2011/3/13/1_16a0808ef2d.775785_1860986310_16a0808ef2d_original-ratio.jpg"
+                    },
+                    {
+                        "story": "संयुक्त अरब अमीरात का आधिकारिक धर्म इस्लाम है लेकिन यह 40 से अधिक चर्चों और गिरजाघरों के साथ-साथ अन्य धर्मों के पूजा स्थलों का घर है।",
+                        "imgUrl": "https://imagevars.gulfnews.com/2020/02/27/Reader-picture_17086141ab0_original-ratio.jpg"
+                    },
+                    {
+                        "story": "संयुक्त अरब अमीरात पृथ्वी पर सबसे शुष्क देशों में से एक है, लेकिन इसके पास इतनी शक्तिशाली तकनीक है कि वे सचमुच क्लाउड सीडिंग के माध्यम से बारिश कर सकते हैं, बादलों से उत्पन्न बारिश की मात्रा को बढ़ाने की प्रक्रिया।",
+                        "imgUrl": "https://imagevars.gulfnews.com/2018/11/07/Cloud_seeding_resources1_16a08531a7a_original-ratio.jpg"
+                    },
+                    {
+                        "story": "बुर्ज खलीफा की सीढ़ी में अविश्वसनीय रूप से 2,909 सीढ़ियां हैं जो 160वीं मंजिल तक जाती हैं। किसी भी ऊंचाई पर चढ़ने के लिए सीढ़ी का प्रयोग किया जाता है।",
+                        "imgUrl": "https://imagevars.gulfnews.com/2020/11/25/A-shot-of-Dubai-Burj-Khalifa--the-world-s-tallest-building--on-a-clear-day.--_175ffc07920_original-ratio.jpg"
+                    },
+                    {
+                        "story": "दुबई एक्वेरियम टैंक दुनिया का सबसे बड़ा सस्पेंडेड एक्वेरियम है। इसमें 10 मिलियन लीटर पानी है, 200 से अधिक प्रजातियों के 33,000 से अधिक जलीय जानवरों की मेजबानी करता है, और यहां तक ​​कि ऐक्रेलिक ग्लास का दुनिया का सबसे बड़ा एकल फलक भी है।",
+                        "imgUrl": "https://www.trawell.in/admin/images/upload/127010604Dubai_Aquarium.jpg"
+                    },
+                    {
+                        "story": "जबकि कई लोग सोच सकते हैं कि यह ऊंट है, संयुक्त अरब अमीरात का राष्ट्रीय पशु वास्तव में राजसी अरेबियन ओरिक्स है, जो एक प्रकार का रेगिस्तानी मृग है। 50 दिरहम नोट के अग्रभाग पर अरब ऑरिक्स संयुक्त अरब अमीरात की मुद्रा का प्रतीक भी है।",
+                        "imgUrl": "https://imagevars.gulfnews.com/2021/03/04/Arabian-Oryx-_177fda26a1f_original-ratio.jpg"
+                    },
+                    {
+                        "story": "अबू धाबी में कैपिटल गेट दुनिया की सबसे झुकी हुई इमारत है। इसकी 35 मंजिलें हैं और यह 18 डिग्री झुकी हुई है, जो पीसा की झुकी मीनार से 14 डिग्री अधिक है।",
+                        "imgUrl": "https://imagevars.gulfnews.com/2010/6/5/1_16a08069f71.637312_3413588051_16a08069f71_original-ratio.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "cont_name": "South Africa",
+            "cout_img": "https://www.wallpapers13.com/wp-content/uploads/2018/06/Kogel-Bay-Resort-Paradise-beach-Images-of-South-Africa-sea-grass-mountains-clouds-Wonderful-landscape-HD-Wallpaper-1920x1200-1920x1080.jpg",
+            "english": {
+                "facts": [
+                    {
+                        "story": "Table Mountain in Cape Town is believed to be one of the oldest mountains in the world and one of the planet’s 12 main energy centres, radiating magnetic, electric or spiritual energy",
+                        "imgUrl": "https://media.cntraveler.com/photos/5b742b191f8f5f5aacc37829/16:9/w_2560,c_limit/Table-Mountain_GettyImages-103891332.jpg"
+                    },
+                    {
+                        "story": "The world’s largest themed resort hotel in the world – The Palace of the Lost City – is found in South Africa. Surrounding the Palace is a 25 hectare manmade botanical jungle with almost 2 million plants, trees and shrubs",
+                        "imgUrl": "https://live.staticflickr.com/2243/2410146364_9bf03f3ab5_b.jpg"
+                    },
+                    {
+                        "story": "South Africa is extremely rich in mining and minerals and considered the world’s leader with nearly 90% of all the platinum metals on earth and around 41% of all the world’s Gold!",
+                        "imgUrl": "https://d3gvybjp3zjp3i.cloudfront.net/wp-content/uploads/2017/06/gold-nuggets.jpg"
+                    },
+                    {
+                        "story": "South Africa is home to the highest commercial bungi jump in the world at 710 feet.",
+                        "imgUrl": "https://www.santabanta.com/images/wallpapers/sports/bungee-jumping-at-victoria-falls-gouritz-river-south-africa_1024-768.jpg"
+                    },
+                    {
+                        "story": "SA has three capital cities: Pretoria is the Executive Capital, Cape Town the Legislative Capital and Bloemfontein the judicial Capital.",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/541/56/14/cape-town-table-mountain-south-africa-sea-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "South African fish migration is so huge you can see it from space.",
+                        "imgUrl": "https://www.tripsavvy.com/thmb/SADfwIFrLHxKar1M-JnQ1li7bNc=/3857x2524/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-85727858-57b1c0053df78cd39cf65f14.jpg"
+                    },
+                    {
+                        "story": "South Africa has hosted the football (2010), cricket (2003) and rugby (1995) world cups",
+                        "imgUrl": "https://i.pinimg.com/originals/eb/15/03/eb1503ae59cd11213b05e9323aa5f10b.jpg"
+                    },
+                    {
+                        "story": "South Africa is the largest producer of platinum in the world.",
+                        "imgUrl": "https://d3gvybjp3zjp3i.cloudfront.net/wp-content/uploads/2018/04/iPiccy-Design.jpg"
+                    },
+                    {
+                        "story": "The world’s largest diamond was found in the Premier Mine in Pretoria, South Africa on 25 January 1905.",
+                        "imgUrl": "https://i.guim.co.uk/img/media/ec50ed8014191a07bdab55685422b6cd561d8e12/0_276_3931_2354/master/3931.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=45f973261b2b016e5072b1656d2da62a"
+                    },
+                    {
+                        "story": "South Africa is the only country in the world to build and then decide to dismantle the whole of its nuclear weapons program",
+                        "imgUrl": "https://issafrica.s3.amazonaws.com/site/images/banners/25-11-2014-Nuclear-Disarmament-Press-Release-Slider.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "Afrikaans",
+                "facts": [
+                    {
+                        "story": "Tafelberg in Kaapstad is glo een van die oudste berge ter wêreld en een van die planeet se 12 hoofenergiesentrums, wat magnetiese, elektriese of geestelike energie uitstraal",
+                        "imgUrl": "https://media.cntraveler.com/photos/5b742b191f8f5f5aacc37829/16:9/w_2560,c_limit/Table-Mountain_GettyImages-103891332.jpg"
+                    },
+                    {
+                        "story": "Die wêreld se grootste tema-oordhotel ter wêreld – The Palace of the Lost City – word in Suid-Afrika gevind. Om die paleis is 'n 25 hektaar mensgemaakte botaniese oerwoud met byna 2 miljoen plante, bome en struike",
+                        "imgUrl": "https://live.staticflickr.com/2243/2410146364_9bf03f3ab5_b.jpg"
+                    },
+                    {
+                        "story": "Suid-Afrika is uiters ryk aan mynbou en minerale en word as die wêreld se leier beskou met byna 90% van al die platinummetale op aarde en sowat 41% van al die wêreld se Goud!",
+                        "imgUrl": "https://d3gvybjp3zjp3i.cloudfront.net/wp-content/uploads/2017/06/gold-nuggets.jpg"
+                    },
+                    {
+                        "story": "Suid-Afrika is die tuiste van die hoogste kommersiële reksprong ter wêreld op 710 voet.",
+                        "imgUrl": "https://www.santabanta.com/images/wallpapers/sports/bungee-jumping-at-victoria-falls-gouritz-river-south-africa_1024-768.jpg"
+                    },
+                    {
+                        "story": "SA het drie hoofstede: Pretoria is die uitvoerende hoofstad, Kaapstad die wetgewende hoofstad en Bloemfontein die geregtelike hoofstad.",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/541/56/14/cape-town-table-mountain-south-africa-sea-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "Suid-Afrikaanse vismigrasie is so groot dat jy dit vanuit die ruimte kan sien.",
+                        "imgUrl": "https://www.tripsavvy.com/thmb/SADfwIFrLHxKar1M-JnQ1li7bNc=/3857x2524/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-85727858-57b1c0053df78cd39cf65f14.jpg"
+                    },
+                    {
+                        "story": "Suid-Afrika was gasheer vir die sokker (2010), krieket (2003) en rugby (1995) Wêreldbeker",
+                        "imgUrl": "https://i.pinimg.com/originals/eb/15/03/eb1503ae59cd11213b05e9323aa5f10b.jpg"
+                    },
+                    {
+                        "story": "Suid-Afrika is die grootste platinumprodusent ter wêreld.",
+                        "imgUrl": "https://d3gvybjp3zjp3i.cloudfront.net/wp-content/uploads/2018/04/iPiccy-Design.jpg"
+                    },
+                    {
+                        "story": "Die wêreld se grootste diamant is op 25 Januarie 1905 in die Premiermyn in Pretoria, Suid-Afrika gevind.",
+                        "imgUrl": "https://i.guim.co.uk/img/media/ec50ed8014191a07bdab55685422b6cd561d8e12/0_276_3931_2354/master/3931.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=45f973261b2b016e5072b1656d2da62a"
+                    },
+                    {
+                        "story": "Suid-Afrika is die enigste land ter wêreld wat bou en dan besluit om die hele kernwapenprogram af te breek.",
+                        "imgUrl": "https://issafrica.s3.amazonaws.com/site/images/banners/25-11-2014-Nuclear-Disarmament-Press-Release-Slider.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "Hindi",
+                "facts": [
+                    {
+                        "story": "केप टाउन में टेबल माउंटेन को दुनिया के सबसे पुराने पहाड़ों में से एक माना जाता है और ग्रह के 12 मुख्य ऊर्जा केंद्रों में से एक है, जो चुंबकीय, विद्युत या आध्यात्मिक ऊर्जा का विकिरण करता है।",
+                        "imgUrl": "https://media.cntraveler.com/photos/5b742b191f8f5f5aacc37829/16:9/w_2560,c_limit/Table-Mountain_GettyImages-103891332.jpg"
+                    },
+                    {
+                        "story": "दुनिया का सबसे बड़ा थीम वाला रिसॉर्ट होटल - द पैलेस ऑफ द लॉस्ट सिटी - दक्षिण अफ्रीका में पाया जाता है। महल के चारों ओर 25 हेक्टेयर का मानव निर्मित वनस्पति जंगल है जिसमें लगभग 2 मिलियन पौधे, पेड़ और झाड़ियाँ हैं।",
+                        "imgUrl": "https://live.staticflickr.com/2243/2410146364_9bf03f3ab5_b.jpg"
+                    },
+                    {
+                        "story": "दक्षिण अफ्रीका खनन और खनिजों में बेहद समृद्ध है और पृथ्वी पर सभी प्लैटिनम धातुओं के लगभग 90% और दुनिया के सभी सोने के लगभग 41% के साथ दुनिया का नेता माना जाता है!",
+                        "imgUrl": "https://d3gvybjp3zjp3i.cloudfront.net/wp-content/uploads/2017/06/gold-nuggets.jpg"
+                    },
+                    {
+                        "story": "दक्षिण अफ्रीका 710 फीट की ऊंचाई पर दुनिया में सबसे ऊंची व्यावसायिक बंजी जंप का घर है।",
+                        "imgUrl": "https://www.santabanta.com/images/wallpapers/sports/bungee-jumping-at-victoria-falls-gouritz-river-south-africa_1024-768.jpg"
+                    },
+                    {
+                        "story": "SA के तीन राजधानी शहर हैं: प्रिटोरिया कार्यकारी राजधानी है, केप टाउन विधायी राजधानी और ब्लोमफ़ोन्टेन न्यायिक राजधानी है।",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/541/56/14/cape-town-table-mountain-south-africa-sea-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "दक्षिण अफ़्रीकी मछली प्रवास इतना विशाल है कि आप इसे अंतरिक्ष से देख सकते हैं।",
+                        "imgUrl": "https://www.tripsavvy.com/thmb/SADfwIFrLHxKar1M-JnQ1li7bNc=/3857x2524/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-85727858-57b1c0053df78cd39cf65f14.jpg"
+                    },
+                    {
+                        "story": "दक्षिण अफ्रीका ने फुटबॉल (2010), क्रिकेट (2003) और रग्बी (1995) विश्व कप की मेजबानी की है",
+                        "imgUrl": "https://i.pinimg.com/originals/eb/15/03/eb1503ae59cd11213b05e9323aa5f10b.jpg"
+                    },
+                    {
+                        "story": "दक्षिण अफ्रीका दुनिया में प्लेटिनम का सबसे बड़ा उत्पादक है।",
+                        "imgUrl": "https://d3gvybjp3zjp3i.cloudfront.net/wp-content/uploads/2018/04/iPiccy-Design.jpg"
+                    },
+                    {
+                        "story": "25 जनवरी 1905 को दक्षिण अफ्रीका के प्रिटोरिया में प्रीमियर माइन में दुनिया का सबसे बड़ा हीरा मिला था।",
+                        "imgUrl": "https://i.guim.co.uk/img/media/ec50ed8014191a07bdab55685422b6cd561d8e12/0_276_3931_2354/master/3931.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=45f973261b2b016e5072b1656d2da62a"
+                    },
+                    {
+                        "story": "दक्षिण अफ्रीका दुनिया का एकमात्र ऐसा देश है जिसने अपने पूरे परमाणु हथियार कार्यक्रम को बनाने और फिर उसे खत्म करने का फैसला किया है",
+                        "imgUrl": "https://issafrica.s3.amazonaws.com/site/images/banners/25-11-2014-Nuclear-Disarmament-Press-Release-Slider.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "cont_name": "Israel",
+            "cout_img": "https://images.unsplash.com/photo-1614517453351-6c1522fc7a56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8amVydXNhbGVtfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "english": {
+                "facts": [
+                    {
+                        "story": "The oldest tree in Israel is a jujube tree in Ein Hatzeva on the road to Eilat, which is thought to be between 1,500 to 2,000 years old.",
+                        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/42/b5/f7/jujube-tree-one-of-the.jpg"
+                    },
+                    {
+                        "story": "Israel is a global leader in medical clowning, and was the first country in the world to send medical clowns into Covid-19 wards.",
+                        "imgUrl": "https://previews.123rf.com/images/swisshippo/swisshippo1908/swisshippo190800072/130069696-collection-of-the-colorful-capsules-with-medicines.jpg"
+                    },
+                    {
+                        "story": "The whole country of Israel contains 137 beaches with extreme beauty",
+                        "imgUrl": "https://media.istockphoto.com/photos/tel-aviv-skyline-picture-id1077741064?k=20&m=1077741064&s=612x612&w=0&h=rOVSvDlKVzne7UhvdPMieZp83wmJwLKEnzjFc_NLKog="
+                    },
+                    {
+                        "story": "An Israeli company has developed an atmospheric water generator that can create clean drinking water from the air. It has been deployed in disaster situations all over the world.",
+                        "imgUrl": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "A Tel Aviv company situated in Israel has invented a folding car that can retract its wheels for narrow streets and snug spots, but still can reach speeds of 55 miles an hour.",
+                        "imgUrl": "https://thedriven.io/wp-content/uploads/2018/11/city-transformer.jpg"
+                    },
+                    {
+                        "story": "The world’s largest wholesale diamond center is Israel and most of the cut and polished diamonds in the world come from the country",
+                        "imgUrl": "https://c0.wallpaperflare.com/preview/813/788/1012/diamond-black-rich-brilliant.jpg"
+                    },
+                    {
+                        "story": "Israeli banknotes have Braille markings on them so the blind can “read” them.",
+                        "imgUrl": "https://thefactfile-lxh7vfdm.stackpathdns.com/wp-content/uploads/2016/09/Israel-Banknotes-with-Braille-marking.jpg"
+                    },
+                    {
+                        "story": "The small but hardy cherry tomato was developed in Israel in 1970s",
+                        "imgUrl": "https://gardenerspath.com/wp-content/uploads/2020/07/Cherry-Tomatoes-in-a-Variety-of-Colors.jpg"
+                    },
+                    {
+                        "story": "In Israel, there are over 230 museums dedicated to all manner of topics, for instance, art, science, history, design, architecture, technology and sports",
+                        "imgUrl": "https://bigseventravel.com/wp-content/uploads/2021/04/muesum-e1617926740459.jpg"
+                    },
+                    {
+                        "story": " The Wailing Wall in Israel gets more than one million notes a year",
+                        "imgUrl": "https://www.thoughtco.com/thmb/ooQVxcfUOucCXmtbXC7oAiHYdsY=/1137x853/smart/filters:no_upscale()/456059697-56a617a45f9b58b7d0dfde11.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "Arabic",
+                "facts": [
+                    {
+                        "story": "أقدم شجرة في إسرائيل هي شجرة عناب في عين هاتسيفا على الطريق إلى إيلات ، ويعتقد أن عمرها ما بين 1500 إلى 2000 سنة.",
+                        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/42/b5/f7/jujube-tree-one-of-the.jpg"
+                    },
+                    {
+                        "story": "إسرائيل هي دولة رائدة عالميًا في مجال المهرجين الطبيين ، وكانت أول دولة في العالم ترسل مهرجين طبيين إلى أجنحة Covid-19.",
+                        "imgUrl": "https://previews.123rf.com/images/swisshippo/swisshippo1908/swisshippo190800072/130069696-collection-of-the-colorful-capsules-with-medicines.jpg"
+                    },
+                    {
+                        "story": "تحتوي دولة إسرائيل بأكملها على 137 شاطئًا بجمال شديد",
+                        "imgUrl": "https://media.istockphoto.com/photos/tel-aviv-skyline-picture-id1077741064?k=20&m=1077741064&s=612x612&w=0&h=rOVSvDlKVzne7UhvdPMieZp83wmJwLKEnzjFc_NLKog="
+                    },
+                    {
+                        "story": "طورت شركة إسرائيلية مولد مياه جوي يمكنه إنتاج مياه شرب نظيفة من الهواء. لقد تم نشره في حالات الكوارث في جميع أنحاء العالم.",
+                        "imgUrl": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "ابتكرت شركة في تل أبيب مقرها في إسرائيل سيارة قابلة للطي يمكنها سحب عجلاتها للشوارع الضيقة والأماكن الدافئة ، ولكن لا يزال بإمكانها الوصول إلى سرعات تصل إلى 55 ميلاً في الساعة.",
+                        "imgUrl": "https://thedriven.io/wp-content/uploads/2018/11/city-transformer.jpg"
+                    },
+                    {
+                        "story": "أكبر مركز لبيع الألماس بالجملة في العالم هو إسرائيل ، ويأتي معظم الماس المقطوع والمصقول في العالم من البلاد",
+                        "imgUrl": "https://c0.wallpaperflare.com/preview/813/788/1012/diamond-black-rich-brilliant.jpg"
+                    },
+                    {
+                        "story": "الأوراق النقدية الإسرائيلية عليها علامات برايل بحيث يمكن للمكفوفين قراءتها",
+                        "imgUrl": "https://thefactfile-lxh7vfdm.stackpathdns.com/wp-content/uploads/2016/09/Israel-Banknotes-with-Braille-marking.jpg"
+                    },
+                    {
+                        "story": "تم تطوير طماطم الكرز الصغيرة ولكن شديدة الصلابة في إسرائيل في السبعينيات",
+                        "imgUrl": "https://gardenerspath.com/wp-content/uploads/2020/07/Cherry-Tomatoes-in-a-Variety-of-Colors.jpg"
+                    },
+                    {
+                        "story": "يوجد في إسرائيل أكثر من 230 متحفًا مخصصًا لجميع أنواع الموضوعات ، على سبيل المثال ، الفن والعلوم والتاريخ والتصميم والهندسة المعمارية والتكنولوجيا والرياضة",
+                        "imgUrl": "https://bigseventravel.com/wp-content/uploads/2021/04/muesum-e1617926740459.jpg"
+                    },
+                    {
+                        "story": "يحصل حائط المبكى في إسرائيل على أكثر من مليون ورقة نقدية في السنة",
+                        "imgUrl": "https://www.thoughtco.com/thmb/ooQVxcfUOucCXmtbXC7oAiHYdsY=/1137x853/smart/filters:no_upscale()/456059697-56a617a45f9b58b7d0dfde11.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "Hindi",
+                "facts": [
+                    {
+                        "story": "इजराइल में सबसे पुराना पेड़ ईन हतजेवा में इलियट की सड़क पर एक बेर का पेड़ है, जिसे 1,500 से 2,000 साल पुराना माना जाता है।",
+                        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/42/b5/f7/jujube-tree-one-of-the.jpg"
+                    },
+                    {
+                        "story": "इज़राइल मेडिकल जोकर में एक वैश्विक नेता है, और कोविड -19 वार्डों में मेडिकल जोकर भेजने वाला दुनिया का पहला देश था।",
+                        "imgUrl": "https://previews.123rf.com/images/swisshippo/swisshippo1908/swisshippo190800072/130069696-collection-of-the-colorful-capsules-with-medicines.jpg"
+                    },
+                    {
+                        "story": "पूरे इज़राइल देश में अत्यधिक सुंदरता वाले 137 समुद्र तट हैं",
+                        "imgUrl": "https://media.istockphoto.com/photos/tel-aviv-skyline-picture-id1077741064?k=20&m=1077741064&s=612x612&w=0&h=rOVSvDlKVzne7UhvdPMieZp83wmJwLKEnzjFc_NLKog="
+                    },
+                    {
+                        "story": "एक इजरायली कंपनी ने एक वायुमंडलीय जल जनरेटर विकसित किया है जो हवा से स्वच्छ पेयजल बना सकता है। इसे पूरी दुनिया में आपदा स्थितियों में तैनात किया गया है।",
+                        "imgUrl": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "इज़राइल में स्थित एक तेल अवीव कंपनी ने एक फोल्डिंग कार का आविष्कार किया है जो संकरी गलियों और स्नग स्पॉट के लिए अपने पहियों को पीछे हटा सकती है, लेकिन फिर भी 55 मील प्रति घंटे की गति तक पहुंच सकती है।",
+                        "imgUrl": "https://thedriven.io/wp-content/uploads/2018/11/city-transformer.jpg"
+                    },
+                    {
+                        "story": "दुनिया का सबसे बड़ा थोक हीरा केंद्र इज़राइल है और दुनिया में अधिकांश कटे और पॉलिश किए गए हीरे देश से आते हैं",
+                        "imgUrl": "https://c0.wallpaperflare.com/preview/813/788/1012/diamond-black-rich-brilliant.jpg"
+                    },
+                    {
+                        "story": "इज़राइली बैंक नोटों पर ब्रेल चिह्न होते हैं ताकि नेत्रहीन उन्हें पढ़ सकें।",
+                        "imgUrl": "https://thefactfile-lxh7vfdm.stackpathdns.com/wp-content/uploads/2016/09/Israel-Banknotes-with-Braille-marking.jpg"
+                    },
+                    {
+                        "story": "1970 के दशक में इज़राइल में छोटा लेकिन हार्डी चेरी टमाटर विकसित किया गया था",
+                        "imgUrl": "https://gardenerspath.com/wp-content/uploads/2020/07/Cherry-Tomatoes-in-a-Variety-of-Colors.jpg"
+                    },
+                    {
+                        "story": "इज़राइल में, कला, विज्ञान, इतिहास, डिजाइन, वास्तुकला, प्रौद्योगिकी और खेल जैसे सभी प्रकार के विषयों के लिए समर्पित 230 से अधिक संग्रहालय हैं।",
+                        "imgUrl": "https://bigseventravel.com/wp-content/uploads/2021/04/muesum-e1617926740459.jpg"
+                    },
+                    {
+                        "story": "इज़राइल में द वेलिंग वॉल को एक वर्ष में एक मिलियन से अधिक नोट मिलते हैं",
+                        "imgUrl": "https://www.thoughtco.com/thmb/ooQVxcfUOucCXmtbXC7oAiHYdsY=/1137x853/smart/filters:no_upscale()/456059697-56a617a45f9b58b7d0dfde11.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "cont_name": "Turkey",
+            "cout_img": "https://wallpaper.dog/large/5556770.jpg",
+            "english": {
+                "facts": [
+                    {
+                        "story": "Turkey has one of the world’s oldest and biggest malls",
+                        "imgUrl": "https://www.touropia.com/gfx/d/largest-malls-in-the-world/siam_paragon.jpg"
+                    },
+                    {
+                        "story": "Santa Claus is from Turkey - Saint Nicholas was born far from the North Pole, in Patara.",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/290/400/889/new-year-christmas-santa-claus-sleigh-reindeer-gifts-postcard-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "A new type of plant is discovered every 10 days",
+                        "imgUrl": "https://m.media-amazon.com/images/I/51V2XHfdntL._SX466_.jpg"
+                    },
+                    {
+                        "story": "Istanbul sits on two continents - Where you can travel from one continent to the other underground by metros",
+                        "imgUrl": "https://mfarahani.s3-eu-west-1.amazonaws.com/photo-collections/60e844d5e92300943f2377eb/7afd2ac5-1c51-4dd6-a860-1f00b8fb07f1.jpg"
+                    },
+                    {
+                        "story": "Turkey introduced tulips to the world",
+                        "imgUrl": "https://images.unsplash.com/flagged/photo-1555215241-9612144143ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dHVsaXBzfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                    },
+                    {
+                        "story": "Turkey's highest point is a dormant volcano",
+                        "imgUrl": "https://media.istockphoto.com/photos/mount-taranaki-picture-id532192186?k=20&m=532192186&s=612x612&w=0&h=QwVgt3ZYVA3rzakJNpwo2OH0nrOvlq8NJtUDVE-pqRg="
+                    },
+                    {
+                        "story": "Leonardo da Vinci proposed a plan to construct a bridge in Turkey",
+                        "imgUrl": "https://thumbs.dreamstime.com/z/top-view-istanbul-city-galata-bridge-turkey-istambul-eminonu-district-summer-day-171281863.jpg"
+                    },
+                    {
+                        "story": "Turkey is the world's biggest producer of hazelnuts.",
+                        "imgUrl": "https://static.toiimg.com/photo/msid-67255116/67255116.jpg?1395740"
+                    },
+                    {
+                        "story": "With over 82000 Turkey has the largest numbers of Mosques",
+                        "imgUrl": "https://news.cgtn.com/news/2020-07-11/Turkey-turns-iconic-Hagia-Sophia-Museum-into-a-mosque-S2gPVGCjzG/img/d445c2ff982f443da46dfead82eb7419/d445c2ff982f443da46dfead82eb7419.jpeg"
+                    },
+                    {
+                        "story": "The Pocket of Hercules' won numerous Olympic gold medals for Turkey",
+                        "imgUrl": "https://static01.nyt.com/images/2017/11/24/obituaries/suleymanoglu4/suleymanoglu4-superJumbo-v2.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "Turkish",
+                "facts": [
+                    {
+                        "story": "Türkiye dünyanın en eski ve en büyük alışveriş merkezlerinden birine sahip",
+                        "imgUrl": "https://www.touropia.com/gfx/d/largest-malls-in-the-world/siam_paragon.jpg"
+                    },
+                    {
+                        "story": "Noel Baba Türkiye'den - Aziz Nikolaos Kuzey Kutbu'ndan çok uzakta Patara'da doğdu.",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/290/400/889/new-year-christmas-santa-claus-sleigh-reindeer-gifts-postcard-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "Her 10 günde bir yeni bir bitki türü keşfediliyor",
+                        "imgUrl": "https://m.media-amazon.com/images/I/51V2XHfdntL._SX466_.jpg"
+                    },
+                    {
+                        "story": "İstanbul iki kıtada yer alır - Metrolarla bir kıtadan diğerine metroyla seyahat edebileceğiniz yer",
+                        "imgUrl": "https://mfarahani.s3-eu-west-1.amazonaws.com/photo-collections/60e844d5e92300943f2377eb/7afd2ac5-1c51-4dd6-a860-1f00b8fb07f1.jpg"
+                    },
+                    {
+                        "story": "Türkiye laleyi dünyaya tanıttı",
+                        "imgUrl": "https://images.unsplash.com/flagged/photo-1555215241-9612144143ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dHVsaXBzfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                    },
+                    {
+                        "story": "Türkiye'nin en yüksek noktası sönmüş bir yanardağ",
+                        "imgUrl": "https://media.istockphoto.com/photos/mount-taranaki-picture-id532192186?k=20&m=532192186&s=612x612&w=0&h=QwVgt3ZYVA3rzakJNpwo2OH0nrOvlq8NJtUDVE-pqRg="
+                    },
+                    {
+                        "story": "Leonardo da Vinci, Türkiye'de bir köprü inşa etmek için bir plan önerdi",
+                        "imgUrl": "https://thumbs.dreamstime.com/z/top-view-istanbul-city-galata-bridge-turkey-istambul-eminonu-district-summer-day-171281863.jpg"
+                    },
+                    {
+                        "story": "Türkiye dünyanın en büyük fındık üreticisidir.",
+                        "imgUrl": "https://static.toiimg.com/photo/msid-67255116/67255116.jpg?1395740"
+                    },
+                    {
+                        "story": "82000'den fazla cami ile Türkiye en fazla cami sayısına sahiptir.",
+                        "imgUrl": "https://news.cgtn.com/news/2020-07-11/Turkey-turns-iconic-Hagia-Sophia-Museum-into-a-mosque-S2gPVGCjzG/img/d445c2ff982f443da46dfead82eb7419/d445c2ff982f443da46dfead82eb7419.jpeg"
+                    },
+                    {
+                        "story": "Herkül'ün Cebi Türkiye'ye çok sayıda olimpiyat altın madalyası kazandırdı",
+                        "imgUrl": "https://static01.nyt.com/images/2017/11/24/obituaries/suleymanoglu4/suleymanoglu4-superJumbo-v2.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "Hindi",
+                "facts": [
+                    {
+                        "story": "तुर्की में दुनिया के सबसे पुराने और सबसे बड़े मॉल में से एक है",
+                        "imgUrl": "https://www.touropia.com/gfx/d/largest-malls-in-the-world/siam_paragon.jpg"
+                    },
+                    {
+                        "story": "सांता क्लॉज़ तुर्की से हैं - संत निकोलस का जन्म उत्तरी ध्रुव से दूर पताारा में हुआ था।",
+                        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/290/400/889/new-year-christmas-santa-claus-sleigh-reindeer-gifts-postcard-wallpaper-preview.jpg"
+                    },
+                    {
+                        "story": "हर 10 दिनों में एक नए प्रकार के पौधे की खोज की जाती है",
+                        "imgUrl": "https://m.media-amazon.com/images/I/51V2XHfdntL._SX466_.jpg"
+                    },
+                    {
+                        "story": "इस्तांबुल दो महाद्वीपों पर बैठता है - जहाँ आप मेट्रो द्वारा एक महाद्वीप से दूसरे महाद्वीप तक भूमिगत यात्रा कर सकते हैं",
+                        "imgUrl": "https://mfarahani.s3-eu-west-1.amazonaws.com/photo-collections/60e844d5e92300943f2377eb/7afd2ac5-1c51-4dd6-a860-1f00b8fb07f1.jpg"
+                    },
+                    {
+                        "story": "तुर्की ने ट्यूलिप को दुनिया के सामने पेश किया",
+                        "imgUrl": "https://images.unsplash.com/flagged/photo-1555215241-9612144143ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dHVsaXBzfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                    },
+                    {
+                        "story": "तुर्की का उच्चतम बिंदु एक निष्क्रिय ज्वालामुखी है",
+                        "imgUrl": "https://media.istockphoto.com/photos/mount-taranaki-picture-id532192186?k=20&m=532192186&s=612x612&w=0&h=QwVgt3ZYVA3rzakJNpwo2OH0nrOvlq8NJtUDVE-pqRg="
+                    },
+                    {
+                        "story": "लियोनार्डो दा विंची ने तुर्की में एक पुल बनाने की योजना का प्रस्ताव रखा",
+                        "imgUrl": "https://thumbs.dreamstime.com/z/top-view-istanbul-city-galata-bridge-turkey-istambul-eminonu-district-summer-day-171281863.jpg"
+                    },
+                    {
+                        "story": "तुर्की हेज़लनट्स का दुनिया का सबसे बड़ा उत्पादक है।",
+                        "imgUrl": "https://static.toiimg.com/photo/msid-67255116/67255116.jpg?1395740"
+                    },
+                    {
+                        "story": "82000 से अधिक के साथ तुर्की में मस्जिदों की संख्या सबसे अधिक है",
+                        "imgUrl": "https://news.cgtn.com/news/2020-07-11/Turkey-turns-iconic-Hagia-Sophia-Museum-into-a-mosque-S2gPVGCjzG/img/d445c2ff982f443da46dfead82eb7419/d445c2ff982f443da46dfead82eb7419.jpeg"
+                    },
+                    {
+                        "story": "पॉकेट ऑफ हरक्यूलिस' ने तुर्की के लिए कई ओलंपिक स्वर्ण पदक जीते",
+                        "imgUrl": "https://static01.nyt.com/images/2017/11/24/obituaries/suleymanoglu4/suleymanoglu4-superJumbo-v2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "cont_name": "Egypt",
+            "cout_img": "https://www.teahub.io/photos/full/316-3160529_cairo-clouds-sand-egypt-desert-pyramid-national-geographic.jpg",
+            "english": {
+                "facts": [
+                    {
+                        "story": "Egypt is one of the driest places on Earth - Egypt only experiences a scarce inch of rain every year, which makes it depend heavily on the Nile river for water.",
+                        "imgUrl": "https://wallpaperaccess.com/full/706604.jpg"
+                    },
+                    {
+                        "story": "The Great Pyramid of Egypt took centuries to build.",
+                        "imgUrl": "https://facts.net/wp-content/uploads/2020/06/Stepped-Pyramid.jpg"
+                    },
+                    {
+                        "story": "The Great Pyramid is actually incomplete -  In the case of the Great Pyramid, what we see today is only a remnant of what it once was, with weathering and looters stripping away its details",
+                        "imgUrl": "https://www.worldatlas.com/r/w1200/upload/2c/97/cb/pyramid-of-khafre-and-sphinx-giza-greater-cairo-egypt.jpg"
+                    },
+                    {
+                        "story": "Egypt’s pyramids aren’t the biggest in the world - This owner is given to the Pyramid of the Feathered Serpent in Mexico, covering an area of over 200 km²",
+                        "imgUrl": "https://www.touropia.com/gfx/d/largest-pyramids-in-the-world/pyramid_of_the_sun.jpg"
+                    },
+                    {
+                        "story": "The Egyptians valued mummification as an important part of preparing for the afterlife - They believe the body should be preserved after the death of the person",
+                        "imgUrl": "https://www.cnet.com/a/img/Pwt9xajM7aSTzT94y7z6UQifFA4=/940x0/2020/10/05/521e947d-e865-48c5-b965-43b58c77b2b2/saqqaracoffin2.jpg"
+                    },
+                    {
+                        "story": "People in ancient Egypt used stone pillows - They used the pillow for taking rest when they are tired",
+                        "imgUrl": "https://archaeologicalmuseum.jhu.edu/wp-content/uploads/2020/04/Img8183.jpg"
+                    },
+                    {
+                        "story": "The Rosetta Stone was the key to understanding the Ancient Egyptian alphabets",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1200px-Rosetta_Stone.JPG"
+                    },
+                    {
+                        "story": "Ancient Egypt worshiped more than 2000 gods and goddesses",
+                        "imgUrl": "https://c8.alamy.com/comp/BJMTET/egyptian-gods-and-goddess-BJMTET.jpg"
+                    },
+                    {
+                        "story": "The Ancient Egyptians were the first people in the world to use sutures(commonly known as Stitches)",
+                        "imgUrl": "https://jamaicahospital.org/newsletter/wp-content/uploads/2016/04/Sutures.jpg"
+                    },
+                    {
+                        "story": "The Ancient Egyptians created toothpaste with the powdered hooves of oxen, burnt eggshells, and volcanic ash",
+                        "imgUrl": "https://www.smilesofbellevue.com/wp-content/uploads/2016/02/ancientegyptianswhiteteeth2.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "Arabic",
+                "facts": [
+                    {
+                        "story": "مصر هي واحدة من أكثر الأماكن جفافاً على وجه الأرض - تعاني مصر من شبر شحيح من الأمطار كل عام ، مما يجعلها تعتمد بشكل كبير على نهر النيل للحصول على المياه.",
+                        "imgUrl": "https://wallpaperaccess.com/full/706604.jpg"
+                    },
+                    {
+                        "story": "استغرق بناء الهرم الأكبر في مصر قرونًا.",
+                        "imgUrl": "https://facts.net/wp-content/uploads/2020/06/Stepped-Pyramid.jpg"
+                    },
+                    {
+                        "story": "الهرم الأكبر في الواقع غير مكتمل - في حالة الهرم الأكبر ، ما نراه اليوم ليس سوى بقايا مما كان عليه من قبل ، مع التجوية واللصوص يزيلون تفاصيله",
+                        "imgUrl": "https://www.worldatlas.com/r/w1200/upload/2c/97/cb/pyramid-of-khafre-and-sphinx-giza-greater-cairo-egypt.jpg"
+                    },
+                    {
+                        "story": "أهرامات مصر ليست الأكبر في العالم - تم منح هذا المالك لهرم الأفعى المصقولة بالريش في المكسيك ، والذي يغطي مساحة تزيد عن 200 كيلومتر مربع",
+                        "imgUrl": "https://www.touropia.com/gfx/d/largest-pyramids-in-the-world/pyramid_of_the_sun.jpg"
+                    },
+                    {
+                        "story": "اعتبر المصريون التحنيط جزءًا مهمًا من الاستعداد للحياة الآخرة - ويعتقدون أنه يجب الحفاظ على الجسد بعد وفاة الشخص.",
+                        "imgUrl": "https://www.cnet.com/a/img/Pwt9xajM7aSTzT94y7z6UQifFA4=/940x0/2020/10/05/521e947d-e865-48c5-b965-43b58c77b2b2/saqqaracoffin2.jpg"
+                    },
+                    {
+                        "story": "استخدم الناس في مصر القديمة الوسائد الحجرية - استخدموا الوسادة للراحة عندما يكونون متعبين",
+                        "imgUrl": "https://archaeologicalmuseum.jhu.edu/wp-content/uploads/2020/04/Img8183.jpg"
+                    },
+                    {
+                        "story": "كان حجر رشيد هو المفتاح لفهم الأبجديات المصرية القديمة",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1200px-Rosetta_Stone.JPG"
+                    },
+                    {
+                        "story": "عبدت مصر القديمة أكثر من 2000 من الآلهة والإلهات",
+                        "imgUrl": "https://c8.alamy.com/comp/BJMTET/egyptian-gods-and-goddess-BJMTET.jpg"
+                    },
+                    {
+                        "story": "كان قدماء المصريين هم أول من استخدم الغرز في العالم (المعروفة باسم الغرز)",
+                        "imgUrl": "https://jamaicahospital.org/newsletter/wp-content/uploads/2016/04/Sutures.jpg"
+                    },
+                    {
+                        "story": "صنع قدماء المصريين معجون أسنان من حوافر الثيران المسحوقة وقشور البيض المحروقة والرماد البركاني.",
+                        "imgUrl": "https://www.smilesofbellevue.com/wp-content/uploads/2016/02/ancientegyptianswhiteteeth2.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "",
+                "facts": [
+                    {
+                        "story": "मिस्र पृथ्वी पर सबसे शुष्क स्थानों में से एक है - मिस्र हर साल केवल एक इंच बारिश का अनुभव करता है, जिससे यह पानी के लिए नील नदी पर बहुत अधिक निर्भर करता है।",
+                        "imgUrl": "https://wallpaperaccess.com/full/706604.jpg"
+                    },
+                    {
+                        "story": "मिस्र के महान पिरामिड को बनने में सदियों का समय लगा।",
+                        "imgUrl": "https://facts.net/wp-content/uploads/2020/06/Stepped-Pyramid.jpg"
+                    },
+                    {
+                        "story": "ग्रेट पिरामिड वास्तव में अधूरा है - ग्रेट पिरामिड के मामले में, आज हम जो देखते हैं वह केवल एक अवशेष है जो एक बार था, अपक्षय और लुटेरों ने इसका विवरण छीन लिया",
+                        "imgUrl": "https://www.worldatlas.com/r/w1200/upload/2c/97/cb/pyramid-of-khafre-and-sphinx-giza-greater-cairo-egypt.jpg"
+                    },
+                    {
+                        "story": "मिस्र के पिरामिड दुनिया में सबसे बड़े नहीं हैं - यह मालिक मेक्सिको में पंख वाले सर्प के पिरामिड को दिया गया है, जो 200 किमी² से अधिक के क्षेत्र को कवर करता है।",
+                        "imgUrl": "https://www.touropia.com/gfx/d/largest-pyramids-in-the-world/pyramid_of_the_sun.jpg"
+                    },
+                    {
+                        "story": "मिस्रवासियों ने ममीकरण को बाद के जीवन की तैयारी के एक महत्वपूर्ण हिस्से के रूप में महत्व दिया - उनका मानना ​​है कि व्यक्ति की मृत्यु के बाद शरीर को संरक्षित किया जाना चाहिए",
+                        "imgUrl": "https://www.cnet.com/a/img/Pwt9xajM7aSTzT94y7z6UQifFA4=/940x0/2020/10/05/521e947d-e865-48c5-b965-43b58c77b2b2/saqqaracoffin2.jpg"
+                    },
+                    {
+                        "story": "प्राचीन मिस्र में लोग पत्थर के तकिए का इस्तेमाल करते थे - थके होने पर आराम करने के लिए वे तकिए का इस्तेमाल करते थे",
+                        "imgUrl": "https://archaeologicalmuseum.jhu.edu/wp-content/uploads/2020/04/Img8183.jpg"
+                    },
+                    {
+                        "story": "रोसेटा स्टोन प्राचीन मिस्र के अक्षरों को समझने की कुंजी थी",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1200px-Rosetta_Stone.JPG"
+                    },
+                    {
+                        "story": "प्राचीन मिस्र में 2000 से अधिक देवी-देवताओं की पूजा की जाती थी",
+                        "imgUrl": "https://c8.alamy.com/comp/BJMTET/egyptian-gods-and-goddess-BJMTET.jpg"
+                    },
+                    {
+                        "story": "प्राचीन मिस्रवासी दुनिया के पहले लोग थे जिन्होंने टांके का इस्तेमाल किया (आमतौर पर टांके के रूप में जाना जाता है)",
+                        "imgUrl": "https://jamaicahospital.org/newsletter/wp-content/uploads/2016/04/Sutures.jpg"
+                    },
+                    {
+                        "story": "प्राचीन मिस्रवासियों ने बैलों के चूर्ण खुरों, जले हुए अंडे के छिलकों और ज्वालामुखी की राख से टूथपेस्ट बनाया था।",
+                        "imgUrl": "https://www.smilesofbellevue.com/wp-content/uploads/2016/02/ancientegyptianswhiteteeth2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "cont_name": "India",
+            "cout_img": "URL",
+            "english": {
+                "facts": [
+                    {
+                        "story": "France is the largest country in the EU and sometimes called the hexagon",
+                        "imgUrl": "https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg"
+                    },
+                    {
+                        "story": "Louis XIX was the king of France for just 20 minutes, the shortest ever reign",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/king-louis-xix-1536x1023.jpg"
+                    },
+                    {
+                        "story": "The French Army was the first to use camouflage in 1915 (World War I)",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/french-army-camouflage-1536x1024.jpg"
+                    },
+                    {
+                        "story": "The French invented tin cans, the hairdryer, and the hot air balloon",
+                        "imgUrl": "https://images2.alphacoders.com/964/964475.jpg"
+                    },
+                    {
+                        "story": "The first public screening of a movie was by the French Lumière in 1895",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/auguste-louis-lumie%CC%80re-1536x1024.jpg"
+                    },
+                    {
+                        "story": "Europe’s highest mountain is Mont Blanc in the French Alps",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/mont-blanc-france-1536x1024.jpg"
+                    },
+                    {
+                        "story": "The Louvre is the most visited museum in the world",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/le-louvre-glass-pyramid-1536x1024.jpg"
+                    },
+                    {
+                        "story": "France produced the most expensive bottle of wine in the world",
+                        "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%253A%252F%252Fstatic.onecms.io%252Fwp-content%252Fuploads%252Fsites%252F9%252F2019%252F08%252Fbottle-service-french-wine-FT-MAG0919.jpg&q=85"
+                    },
+                    {
+                        "story": "The French eat around 30,000 tons of snails a year",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/escargot-1536x1024.jpg"
+                    },
+                    {
+                        "story": " The world’s greatest cycle race, the Tour de France, is more than 100 years old",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/tour-de-france-arc-de-triomphe-1536x1024.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "French",
+                "facts": [
+                    {
+                        "story": "La France est le plus grand pays de l'UE et parfois appelé l'hexagone",
+                        "imgUrl": "https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg"
+                    },
+                    {
+                        "story": "Louis XIX a été roi de France pendant seulement 20 minutes, le règne le plus court de tous les temps",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/king-louis-xix-1536x1023.jpg"
+                    },
+                    {
+                        "story": "L'armée française a été la première à utiliser le camouflage en 1915 (Première Guerre mondiale)",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/french-army-camouflage-1536x1024.jpg"
+                    },
+                    {
+                        "story": "Les Français ont inventé les boîtes de conserve, le sèche-cheveux et la montgolfière",
+                        "imgUrl": "https://images2.alphacoders.com/964/964475.jpg"
+                    },
+                    {
+                        "story": "La première projection publique d'un film a été réalisée par le français Lumière en 1895",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/auguste-louis-lumie%CC%80re-1536x1024.jpg"
+                    },
+                    {
+                        "story": "La plus haute montagne d'Europe est le Mont Blanc dans les Alpes françaises",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/mont-blanc-france-1536x1024.jpg"
+                    },
+                    {
+                        "story": "Le Louvre est le musée le plus visité au monde",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/le-louvre-glass-pyramid-1536x1024.jpg"
+                    },
+                    {
+                        "story": "La France a produit la bouteille de vin la plus chère du monde",
+                        "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%253A%252F%252Fstatic.onecms.io%252Fwp-content%252Fuploads%252Fsites%252F9%252F2019%252F08%252Fbottle-service-french-wine-FT-MAG0919.jpg&q=85"
+                    },
+                    {
+                        "story": "Les Français mangent environ 30 000 tonnes d'escargots par an",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/escargot-1536x1024.jpg"
+                    },
+                    {
+                        "story": "La plus grande course cycliste du monde, le Tour de France, a plus de 100 ans",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/tour-de-france-arc-de-triomphe-1536x1024.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "Hindi",
+                "facts": [
+                    {
+                        "story": "फ्रांस यूरोपीय संघ का सबसे बड़ा देश है और कभी-कभी इसे षट्भुज कहा जाता है",
+                        "imgUrl": "https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg"
+                    },
+                    {
+                        "story": "लुई XIX सिर्फ 20 मिनट के लिए फ्रांस का राजा था, जो अब तक का सबसे छोटा शासन था",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/king-louis-xix-1536x1023.jpg"
+                    },
+                    {
+                        "story": "1915 (प्रथम विश्व युद्ध) में छलावरण का उपयोग करने वाली पहली फ्रांसीसी सेना थी",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/french-army-camouflage-1536x1024.jpg"
+                    },
+                    {
+                        "story": "फ्रांसीसियों ने टिन के डिब्बे, हेअर ड्रायर और गर्म हवा के गुब्बारे का आविष्कार किया",
+                        "imgUrl": "https://images2.alphacoders.com/964/964475.jpg"
+                    },
+                    {
+                        "story": "किसी फिल्म की पहली सार्वजनिक स्क्रीनिंग 1895 में फ्रेंच लुमियर द्वारा की गई थी",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/auguste-louis-lumie%CC%80re-1536x1024.jpg"
+                    },
+                    {
+                        "story": "यूरोप का सबसे ऊँचा पर्वत फ्रेंच आल्प्स में मोंट ब्लांक है",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/mont-blanc-france-1536x1024.jpg"
+                    },
+                    {
+                        "story": "लौवर (Museum name) दुनिया में सबसे ज्यादा देखा जाने वाला संग्रहालय है",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/le-louvre-glass-pyramid-1536x1024.jpg"
+                    },
+                    {
+                        "story": "फ्रांस ने दुनिया की सबसे महंगी शराब की बोतल का उत्पादन किया",
+                        "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%253A%252F%252Fstatic.onecms.io%252Fwp-content%252Fuploads%252Fsites%252F9%252F2019%252F08%252Fbottle-service-french-wine-FT-MAG0919.jpg&q=85"
+                    },
+                    {
+                        "story": "फ्रांसीसी एक वर्ष में लगभग 30,000 टन घोंघे खाते हैं",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/escargot-1536x1024.jpg"
+                    },
+                    {
+                        "story": "दुनिया की सबसे बड़ी साइकिल रेस, टूर डी फ्रांस, 100 साल से अधिक पुरानी है",
+                        "imgUrl": "https://www.expatica.com/app/uploads/sites/5/2014/05/tour-de-france-arc-de-triomphe-1536x1024.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "cont_name": "Germany",
+            "cout_img": "https://edwiseinternational.com/Admin/Country/germany-650x350.jpg",
+            "english": {
+                "facts": [
+                    {
+                        "story": "Germany was the first country in the world to adopt Daylight saving time (DST)",
+                        "imgUrl": "https://previews.123rf.com/images/snr/snr1706/snr170600024/80704769-big-clock-on-the-street-of-timisoara-romania.jpg"
+                    },
+                    {
+                        "story": "Germany boasts some of world’s most famous inventions - Light bulb , automated calculator , automobile etc.",
+                        "imgUrl": "https://www.energy.gov/sites/default/files/styles/photo_gallery_509_x_678_/public/2017/04/f34/blur-1846617_1920.jpg.png?itok=jImcJnST"
+                    },
+                    {
+                        "story": "Germany is one of the world’s largest car producers-selling 6 million cars in 2015( the top-selling car brands in Germany were Volkswagen, Audi, Mercedes and BMW)",
+                        "imgUrl": "https://cdn.bigboytoyz.com/new-version/products/m3-o-temp-1.jpg"
+                    },
+                    {
+                        "story": "Germany is one of the world’s leading book nations - publishing around 94,000 titles every year",
+                        "imgUrl": "https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "Germany is Europe’s second largest beer consumer - Germans drank 2.55 billion gallons of beer in 2012",
+                        "imgUrl": "https://media.istockphoto.com/photos/cheers-celebration-toast-with-pints-of-beer-picture-id1060456922?b=1&k=20&m=1060456922&s=170667a&w=0&h=ggipHr-sKeE9UfDUU6buvnb1n3Nzt6-F9QDQ6u1fTV4="
+                    },
+                    {
+                        "story": "smoking has been banned in public buildings, on public transportation and in other places since 2007 but you can drink alcohol openly",
+                        "imgUrl": "https://unisa.edu.au/siteassets/media-centre/images/media-release-images/2020/smoking-500x500.jpg"
+                    },
+                    {
+                        "story": "If you want to order 1 beer in Germany, you show your thumb and for 2 beers you show your first finger",
+                        "imgUrl": "https://images.pexels.com/photos/1454797/pexels-photo-1454797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "The highest temperature ever recorded in Germany was in 2019 when it got to 42.6 degrees in Lingen",
+                        "imgUrl": "https://image.shutterstock.com/image-photo/thermometer-green-pharmacy-screen-sign-260nw-1487976236.jpg"
+                    },
+                    {
+                        "story": "You’ll find the world’s narrowest street in the German city of Reutlingen, at its narrowest point it’s only 31 cm (one foot) wide",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Engste_Stra%C3%9Fe_der_Welt.jpg"
+                    },
+                    {
+                        "story": "The city of Cologne was destroyed during the Second World War but was rebuilt following the same layout in the 50s",
+                        "imgUrl": "https://cdn.britannica.com/18/70118-050-934B6C18/passenger-boat-Cologne-Cathedral-Rhine-River-North.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "German",
+                "facts": [
+                    {
+                        "story": "Deutschland hat als erstes Land der Welt die Sommerzeit (DST) eingeführt",
+                        "imgUrl": "https://previews.123rf.com/images/snr/snr1706/snr170600024/80704769-big-clock-on-the-street-of-timisoara-romania.jpg"
+                    },
+                    {
+                        "story": "Deutschland kann sich einiger der berühmtesten Erfindungen der Welt rühmen - Glühbirne, automatischer Taschenrechner, Automobil usw.",
+                        "imgUrl": "https://www.energy.gov/sites/default/files/styles/photo_gallery_509_x_678_/public/2017/04/f34/blur-1846617_1920.jpg.png?itok=jImcJnST"
+                    },
+                    {
+                        "story": "Deutschland ist einer der weltweit größten Autohersteller und verkaufte 2015 6 Millionen Autos (die meistverkauften Automarken in Deutschland waren Volkswagen, Audi, Mercedes und BMW).",
+                        "imgUrl": "https://cdn.bigboytoyz.com/new-version/products/m3-o-temp-1.jpg"
+                    },
+                    {
+                        "story": "Deutschland ist eine der führenden Buchnationen der Welt – jährlich erscheinen rund 94.000 Titel",
+                        "imgUrl": "https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "Deutschland ist Europas zweitgrößter Bierkonsument – die Deutschen tranken 2012 2,55 Milliarden Gallonen Bier",
+                        "imgUrl": "https://media.istockphoto.com/photos/cheers-celebration-toast-with-pints-of-beer-picture-id1060456922?b=1&k=20&m=1060456922&s=170667a&w=0&h=ggipHr-sKeE9UfDUU6buvnb1n3Nzt6-F9QDQ6u1fTV4="
+                    },
+                    {
+                        "story": "Das Rauchen ist in öffentlichen Gebäuden, in öffentlichen Verkehrsmitteln und an anderen Orten seit 2007 verboten, aber Sie können offen Alkohol trinken",
+                        "imgUrl": "https://unisa.edu.au/siteassets/media-centre/images/media-release-images/2020/smoking-500x500.jpg"
+                    },
+                    {
+                        "story": "Wenn du in Deutschland 1 Bier bestellen willst, zeigst du deinen Daumen und für 2 Bier zeigst du deinen Zeigefinger",
+                        "imgUrl": "https://images.pexels.com/photos/1454797/pexels-photo-1454797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "Die höchste jemals in Deutschland gemessene Temperatur wurde 2019 mit 42,6 Grad in Lingen gemessen",
+                        "imgUrl": "https://image.shutterstock.com/image-photo/thermometer-green-pharmacy-screen-sign-260nw-1487976236.jpg"
+                    },
+                    {
+                        "story": "Die engste Straße der Welt finden Sie in der deutschen Stadt Reutlingen, an ihrer schmalsten Stelle ist sie nur 31 cm breit",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Engste_Stra%C3%9Fe_der_Welt.jpg"
+                    },
+                    {
+                        "story": "Die im Zweiten Weltkrieg zerstörte Stadt Köln wurde in den 50er Jahren nach gleichem Grundriss wieder aufgebaut",
+                        "imgUrl": "https://cdn.britannica.com/18/70118-050-934B6C18/passenger-boat-Cologne-Cathedral-Rhine-River-North.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "",
+                "facts": [
+                    {
+                        "story": "डेलाइट सेविंग टाइम (डीएसटी) अपनाने वाला दुनिया का पहला देश जर्मनी था",
+                        "imgUrl": "https://previews.123rf.com/images/snr/snr1706/snr170600024/80704769-big-clock-on-the-street-of-timisoara-romania.jpg"
+                    },
+                    {
+                        "story": "जर्मनी दुनिया के कुछ सबसे प्रसिद्ध आविष्कारों को समेटे हुए है - लाइट बल्ब, स्वचालित कैलकुलेटर, ऑटोमोबाइल आदि।",
+                        "imgUrl": "https://www.energy.gov/sites/default/files/styles/photo_gallery_509_x_678_/public/2017/04/f34/blur-1846617_1920.jpg.png?itok=jImcJnST"
+                    },
+                    {
+                        "story": "जर्मनी दुनिया के सबसे बड़े कार उत्पादकों में से एक है, जो 2015 में 6 मिलियन कारों की बिक्री कर रहा था (जर्मनी में सबसे अधिक बिकने वाले कार ब्रांड वोक्सवैगन, ऑडी, मर्सिडीज और बीएमडब्ल्यू थे)",
+                        "imgUrl": "https://cdn.bigboytoyz.com/new-version/products/m3-o-temp-1.jpg"
+                    },
+                    {
+                        "story": "जर्मनी दुनिया के अग्रणी पुस्तक राष्ट्रों में से एक है - हर साल लगभग 94,000 शीर्षक प्रकाशित करता है",
+                        "imgUrl": "https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "जर्मनी यूरोप का दूसरा सबसे बड़ा बीयर उपभोक्ता है - 2012 में जर्मनों ने 2.55 बिलियन गैलन बीयर पी थी",
+                        "imgUrl": "https://media.istockphoto.com/photos/cheers-celebration-toast-with-pints-of-beer-picture-id1060456922?b=1&k=20&m=1060456922&s=170667a&w=0&h=ggipHr-sKeE9UfDUU6buvnb1n3Nzt6-F9QDQ6u1fTV4="
+                    },
+                    {
+                        "story": "सार्वजनिक भवनों, सार्वजनिक परिवहन और अन्य स्थानों पर 2007 से धूम्रपान पर प्रतिबंध लगा दिया गया है, लेकिन आप खुले तौर पर शराब पी सकते हैं",
+                        "imgUrl": "https://unisa.edu.au/siteassets/media-centre/images/media-release-images/2020/smoking-500x500.jpg"
+                    },
+                    {
+                        "story": "अगर आप जर्मनी में 1 बियर ऑर्डर करना चाहते हैं, तो आप अपना अंगूठा दिखाते हैं और 2 बियर के लिए आप अपनी पहली उंगली दिखाते हैं",
+                        "imgUrl": "https://images.pexels.com/photos/1454797/pexels-photo-1454797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                        "story": "जर्मनी में अब तक का सबसे अधिक तापमान 2019 में दर्ज किया गया था जब यह लिंगेन में 42.6 डिग्री तक पहुंच गया था",
+                        "imgUrl": "https://image.shutterstock.com/image-photo/thermometer-green-pharmacy-screen-sign-260nw-1487976236.jpg"
+                    },
+                    {
+                        "story": "आपको जर्मन शहर रुतलिंगेन में दुनिया की सबसे संकरी सड़क मिलेगी, इसके सबसे संकरे बिंदु पर यह केवल 31 सेमी (एक फुट) चौड़ा है",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Engste_Stra%C3%9Fe_der_Welt.jpg"
+                    },
+                    {
+                        "story": "द्वितीय विश्व युद्ध के दौरान कोलोन शहर को नष्ट कर दिया गया था लेकिन 50 के दशक में उसी लेआउट के बाद इसे फिर से बनाया गया था",
+                        "imgUrl": "https://cdn.britannica.com/18/70118-050-934B6C18/passenger-boat-Cologne-Cathedral-Rhine-River-North.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "cont_name": "Poland",
+            "cout_img": "https://c4.wallpaperflare.com/wallpaper/319/280/932/warsaw-poland-old-town-night-lights-wallpaper-preview.jpg",
+            "english": {
+                "facts": [
+                    {
+                        "story": "Europe's heaviest animals live in Poland-Primeval Forest in Poland is Europe’s last ancient forest and home to 800 European bison, Europe’s heaviest land animals.",
+                        "imgUrl": "https://cdn.britannica.com/25/189925-050-2C1D8811/Bison-grazing-Ontario-Canada.jpg"
+                    },
+                    {
+                        "story": "Poland also has the world's biggest castle - Poland has an impressive 16 World Heritage Sites and among them the biggest castle in the world – Malbork",
+                        "imgUrl": "https://i0.wp.com/www.alltherooms.com/blog/wp-content/uploads/2018/10/malbork-Castle-The-Castle-of-the-Teutonic-Order-Malbork-By-Artur-Bogacki.jpg?resize=640%2C427&ssl=1"
+                    },
+                    {
+                        "story": "The language of Polish is really difficult to learn, it is one of the hardest languages in the world to get to grips with",
+                        "imgUrl": "https://media.istockphoto.com/photos/question-do-you-speak-polish-written-in-polish-picture-id582272688?k=20&m=582272688&s=612x612&w=0&h=scVA7jNAmb_GIg-3xjQNcdtDu1fNbNoC38M2uWpSRKY="
+                    },
+                    {
+                        "story": "Once Poland disappeared from the world map. Between 1772 and 1795 it was not on the map at all",
+                        "imgUrl": "http://ontheworldmap.com/poland/poland-location-map.jpg"
+                    },
+                    {
+                        "story": "The most famous astronomer in the world was from Poland. He was called Nicolaus Copernicus, and was also a Renaissance mathematician.",
+                        "imgUrl": "https://media.sciencephoto.com/image/h4030405/800wm"
+                    },
+                    {
+                        "story": "Until 1991 Poland was home to the world's tallest structure. The Warsaw radio mast tower was 2,121 feet tall. In 1991 it was torn down",
+                        "imgUrl": "https://api.culture.pl/sites/default/files/styles/1920_auto/public/2021-03/maszt_kosztowy_w_myslowicachforum.jpg?itok=rHSipC7q"
+                    },
+                    {
+                        "story": "The highest point in Poland is Rysy, which is 8,199 ft above sea level",
+                        "imgUrl": "https://dag08uxs564ub.cloudfront.net/images/AdobeStock_73694442.max-1280x768.jpg"
+                    },
+                    {
+                        "story": "The most famous lakes in Poland are the Oder and the Vistula",
+                        "imgUrl": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/01/Lake-Karasepb0310.jpg"
+                    },
+                    {
+                        "story": "Wieliczka Salt Mine is the only mining site in the world that has continuously been functioning since the middle ages.",
+                        "imgUrl": "https://www.scenicsuitcase.com/wp-content/uploads/2017/11/Salt-Mine-1024x683.jpg"
+                    },
+                    {
+                        "story": "You might spot Oak trees at Białowieża Forest that are over 500 years old",
+                        "imgUrl": "https://10mosttoday.com/wp-content/uploads/2020/10/Major-Oak.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "Polish",
+                "facts": [
+                    {
+                        "story": "W Polsce żyją najcięższe zwierzęta Europy – Puszcza w Polsce jest ostatnim prastarym lasem w Europie i domem dla 800 żubrów, najcięższych zwierząt lądowych Europy.",
+                        "imgUrl": "https://cdn.britannica.com/25/189925-050-2C1D8811/Bison-grazing-Ontario-Canada.jpg"
+                    },
+                    {
+                        "story": "Polska ma też największy zamek na świecie - Polska ma imponujące 16 obiektów światowego dziedzictwa, a wśród nich największy zamek na świecie – Malbork",
+                        "imgUrl": "https://i0.wp.com/www.alltherooms.com/blog/wp-content/uploads/2018/10/malbork-Castle-The-Castle-of-the-Teutonic-Order-Malbork-By-Artur-Bogacki.jpg?resize=640%2C427&ssl=1"
+                    },
+                    {
+                        "story": "Język polski jest naprawdę trudny do nauczenia, jest jednym z najtrudniejszych języków na świecie",
+                        "imgUrl": "https://media.istockphoto.com/photos/question-do-you-speak-polish-written-in-polish-picture-id582272688?k=20&m=582272688&s=612x612&w=0&h=scVA7jNAmb_GIg-3xjQNcdtDu1fNbNoC38M2uWpSRKY="
+                    },
+                    {
+                        "story": "Kiedyś Polska zniknęła z mapy świata. W latach 1772-1795 w ogóle nie było go na mapie",
+                        "imgUrl": "http://ontheworldmap.com/poland/poland-location-map.jpg"
+                    },
+                    {
+                        "story": "Najsłynniejszy astronom na świecie pochodził z Polski. Nazywał się Mikołaj Kopernik, był też matematykiem renesansowym.",
+                        "imgUrl": "https://media.sciencephoto.com/image/h4030405/800wm"
+                    },
+                    {
+                        "story": "Do 1991 roku w Polsce znajdowała się najwyższa konstrukcja świata. Warszawska wieża masztu radiowego miała 2121 stóp wysokości. W 1991 roku został zburzony",
+                        "imgUrl": "https://api.culture.pl/sites/default/files/styles/1920_auto/public/2021-03/maszt_kosztowy_w_myslowicachforum.jpg?itok=rHSipC7q"
+                    },
+                    {
+                        "story": "Najwyższym punktem w Polsce są Rysy o wysokości 8199 stóp nad poziomem morza",
+                        "imgUrl": "https://dag08uxs564ub.cloudfront.net/images/AdobeStock_73694442.max-1280x768.jpg"
+                    },
+                    {
+                        "story": "Najbardziej znane jeziora w Polsce to Odra i Wisła",
+                        "imgUrl": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/01/Lake-Karasepb0310.jpg"
+                    },
+                    {
+                        "story": "Kopalnia Soli „Wieliczka” jest jedynym na świecie obiektem górniczym, który funkcjonuje nieprzerwanie od średniowiecza.",
+                        "imgUrl": "https://www.scenicsuitcase.com/wp-content/uploads/2017/11/Salt-Mine-1024x683.jpg"
+                    },
+                    {
+                        "story": "W Puszczy Białowieskiej można spotkać dęby, które mają ponad 500 lat",
+                        "imgUrl": "https://10mosttoday.com/wp-content/uploads/2020/10/Major-Oak.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "Hindi",
+                "facts": [
+                    {
+                        "story": "यूरोप के सबसे भारी जानवर पोलैंड में रहते हैं-पोलैंड में प्राइमवल फ़ॉरेस्ट यूरोप का आखिरी प्राचीन जंगल है और यूरोप के सबसे भारी ज़मीन वाले 800 यूरोपीय बाइसन का घर है।",
+                        "imgUrl": "https://cdn.britannica.com/25/189925-050-2C1D8811/Bison-grazing-Ontario-Canada.jpg"
+                    },
+                    {
+                        "story": "पोलैंड में दुनिया का सबसे बड़ा महल भी है - पोलैंड में प्रभावशाली 16 विश्व धरोहर स्थल हैं और उनमें से दुनिया का सबसे बड़ा महल है - मालबोर्क",
+                        "imgUrl": "https://i0.wp.com/www.alltherooms.com/blog/wp-content/uploads/2018/10/malbork-Castle-The-Castle-of-the-Teutonic-Order-Malbork-By-Artur-Bogacki.jpg?resize=640%2C427&ssl=1"
+                    },
+                    {
+                        "story": "पोलिश भाषा सीखना वास्तव में कठिन है, यह दुनिया की सबसे कठिन भाषाओं में से एक है जिसे पकड़ पाना मुश्किल है",
+                        "imgUrl": "https://media.istockphoto.com/photos/question-do-you-speak-polish-written-in-polish-picture-id582272688?k=20&m=582272688&s=612x612&w=0&h=scVA7jNAmb_GIg-3xjQNcdtDu1fNbNoC38M2uWpSRKY="
+                    },
+                    {
+                        "story": "एक बार पोलैंड दुनिया के नक्शे से गायब हो गया। 1772 और 1795 के बीच यह मानचित्र पर बिल्कुल भी नहीं था",
+                        "imgUrl": "http://ontheworldmap.com/poland/poland-location-map.jpg"
+                    },
+                    {
+                        "story": "दुनिया में सबसे प्रसिद्ध खगोलशास्त्री पोलैंड से थे। उन्हें निकोलस कोपरनिकस कहा जाता था, और वे एक पुनर्जागरण गणितज्ञ भी थे।",
+                        "imgUrl": "https://media.sciencephoto.com/image/h4030405/800wm"
+                    },
+                    {
+                        "story": "1991 तक पोलैंड दुनिया की सबसे ऊंची संरचना का घर था। वारसॉ रेडियो मस्तूल टॉवर 2,121 फीट लंबा था। 1991 में इसे तोड़ दिया गया था",
+                        "imgUrl": "https://api.culture.pl/sites/default/files/styles/1920_auto/public/2021-03/maszt_kosztowy_w_myslowicachforum.jpg?itok=rHSipC7q"
+                    },
+                    {
+                        "story": "पोलैंड का सबसे ऊँचा स्थान Rysy है, जो समुद्र तल से 8,199 फीट ऊपर है",
+                        "imgUrl": "https://dag08uxs564ub.cloudfront.net/images/AdobeStock_73694442.max-1280x768.jpg"
+                    },
+                    {
+                        "story": "पोलैंड में सबसे प्रसिद्ध झीलें ओडर और विस्टुलान हैं",
+                        "imgUrl": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/01/Lake-Karasepb0310.jpg"
+                    },
+                    {
+                        "story": "Wieliczka Salt Mine दुनिया का एकमात्र खनन स्थल है जो मध्य युग से लगातार काम कर रहा है।",
+                        "imgUrl": "https://www.scenicsuitcase.com/wp-content/uploads/2017/11/Salt-Mine-1024x683.jpg"
+                    },
+                    {
+                        "story": "आप 500 साल से अधिक पुराने बियालोविआ वन में ओक के पेड़ देख सकते हैं",
+                        "imgUrl": "https://10mosttoday.com/wp-content/uploads/2020/10/Major-Oak.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "cont_name": "United Kingdom (UK)",
+            "cout_img": "https://media.istockphoto.com/photos/houses-of-parliament-and-big-ben-tower-london-uk-picture-id1161443097?b=1&k=20&m=1161443097&s=170667a&w=0&h=ZTnYH2vmU7jr4VDW5d7g_S96A2ONTDtBqxn3DnjNXT4=",
+            "english": {
+                "facts": [
+                    {
+                        "story": "Tea is by far the most famous drink among Brits. It is estimated that they drink 165 million cups of tea every day",
+                        "imgUrl": "https://wallpaperaccess.com/full/1558848.jpg"
+                    },
+                    {
+                        "story": "The first postage stamp was created in the U.K. It was designed in May 1840, and it featured Queen Victoria.",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Penny_black.jpg"
+                    },
+                    {
+                        "story": "The monument of Stonehenge is claimed to be one of the oldest monuments in the world, scientists believe that it was built over in 3,000 B.C.",
+                        "imgUrl": "https://images.ctfassets.net/cnu0m8re1exe/5q3WaUCJigqKuFBkLsHW0w/a6e16926bdd5ff953d56d52603bf7ca4/shutterstock_156286739.jpg"
+                    },
+                    {
+                        "story": "Queen Elizabeth is the longest-reigning Queen in the world.",
+                        "imgUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/queen-elizabeth-ii-arrives-at-the-queen-elizabeth-ii-news-photo-1641826061.jpg?crop=0.685xw:1.00xh;0.184xw,0&resize=640:*"
+                    },
+                    {
+                        "story": "Indian restaurants in the U.K. are a random thing. It is estimated that there are more Indian restaurants in London than in Indian urban centres like New Delhi or Mumbai",
+                        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/74/71/46/taste-of-india.jpg"
+                    },
+                    {
+                        "story": "No mountains in England are higher than a thousand meters.",
+                        "imgUrl": "https://www.worldatlas.com/r/w768/upload/8e/8f/2e/scafell-pike.jpg"
+                    },
+                    {
+                        "story": "Although the U.K. it’s known for its rainy weather, in 2003 a temperature of 38.5 degrees Celsius was recorded in Kent",
+                        "imgUrl": "https://i.guim.co.uk/img/media/1358944852aa25ab9dd70124932fadee70174dbf/0_333_5178_3107/master/5178.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=24b0f033814434d0b7283380a8290c1b"
+                    },
+                    {
+                        "story": "All horses in the U.K. must possess a passport.",
+                        "imgUrl": "https://media.istockphoto.com/photos/chestnut-horse-standing-in-field-picture-id176986077?k=20&m=176986077&s=612x612&w=0&h=n7WnAONQ225wCC8XVVNP9qZfL4N-1fwnc49zu4cqfaE="
+                    },
+                    {
+                        "story": "French was the official language in the U.K., from 1066 to 1362 for almost 300 years",
+                        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEHbFBKQv-EEyMiDPhYw4luluFm_JHrTXMw&usqp=CAU"
+                    },
+                    {
+                        "story": "Uk is a vast country, but no matter where you stay, you’ll never be further than 115 km from the sea",
+                        "imgUrl": "https://www.webuildvalue.com/wp-content/uploads/porti-regno-unito.jpg"
+                    }
+                ]
+            },
+            "regional": {
+                "reg_name": "English(UK)",
+                "facts": [
+                    {
+                        "story": "Tea is by far the most famous drink among Brits. It is estimated that they drink 165 million cups of tea every day",
+                        "imgUrl": "https://wallpaperaccess.com/full/1558848.jpg"
+                    },
+                    {
+                        "story": "The first postage stamp was created in the U.K. It was designed in May 1840, and it featured Queen Victoria.",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Penny_black.jpg"
+                    },
+                    {
+                        "story": "The monument of Stonehenge is claimed to be one of the oldest monuments in the world, scientists believe that it was built over in 3,000 B.C.",
+                        "imgUrl": "https://images.ctfassets.net/cnu0m8re1exe/5q3WaUCJigqKuFBkLsHW0w/a6e16926bdd5ff953d56d52603bf7ca4/shutterstock_156286739.jpg"
+                    },
+                    {
+                        "story": "Queen Elizabeth is the longest-reigning Queen in the world.",
+                        "imgUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/queen-elizabeth-ii-arrives-at-the-queen-elizabeth-ii-news-photo-1641826061.jpg?crop=0.685xw:1.00xh;0.184xw,0&resize=640:*"
+                    },
+                    {
+                        "story": "Indian restaurants in the U.K. are a random thing. It is estimated that there are more Indian restaurants in London than in Indian urban centres like New Delhi or Mumbai",
+                        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/74/71/46/taste-of-india.jpg"
+                    },
+                    {
+                        "story": "No mountains in England are higher than a thousand meters.",
+                        "imgUrl": "https://www.worldatlas.com/r/w768/upload/8e/8f/2e/scafell-pike.jpg"
+                    },
+                    {
+                        "story": "Although the U.K. it’s known for its rainy weather, in 2003 a temperature of 38.5 degrees Celsius was recorded in Kent",
+                        "imgUrl": "https://i.guim.co.uk/img/media/1358944852aa25ab9dd70124932fadee70174dbf/0_333_5178_3107/master/5178.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=24b0f033814434d0b7283380a8290c1b"
+                    },
+                    {
+                        "story": "All horses in the U.K. must possess a passport.",
+                        "imgUrl": "https://media.istockphoto.com/photos/chestnut-horse-standing-in-field-picture-id176986077?k=20&m=176986077&s=612x612&w=0&h=n7WnAONQ225wCC8XVVNP9qZfL4N-1fwnc49zu4cqfaE="
+                    },
+                    {
+                        "story": "French was the official language in the U.K., from 1066 to 1362 for almost 300 years",
+                        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEHbFBKQv-EEyMiDPhYw4luluFm_JHrTXMw&usqp=CAU"
+                    },
+                    {
+                        "story": "Uk is a vast country, but no matter where you stay, you’ll never be further than 115 km from the sea",
+                        "imgUrl": "https://www.webuildvalue.com/wp-content/uploads/porti-regno-unito.jpg"
+                    }
+                ]
+            },
+            "hindi": {
+                "hi_name": "Hindi",
+                "facts": [
+                    {
+                        "story": "ब्रिट्स के बीच चाय अब तक का सबसे प्रसिद्ध पेय है। ऐसा अनुमान है कि वे प्रतिदिन 165 मिलियन कप चाय पीते हैं",
+                        "imgUrl": "https://wallpaperaccess.com/full/1558848.jpg"
+                    },
+                    {
+                        "story": "पहला डाक टिकट यूके में बनाया गया था इसे मई 1840 में डिजाइन किया गया था, और इसमें महारानी विक्टोरिया को चित्रित किया गया था।",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Penny_black.jpg"
+                    },
+                    {
+                        "story": "स्टोनहेंज के स्मारक को दुनिया के सबसे पुराने स्मारकों में से एक माना जाता है, वैज्ञानिकों का मानना है कि इसे 3,000 ईसा पूर्व में बनाया गया था।",
+                        "imgUrl": "https://images.ctfassets.net/cnu0m8re1exe/5q3WaUCJigqKuFBkLsHW0w/a6e16926bdd5ff953d56d52603bf7ca4/shutterstock_156286739.jpg"
+                    },
+                    {
+                        "story": "महारानी एलिजाबेथ दुनिया में सबसे लंबे समय तक राज करने वाली महारानी हैं।",
+                        "imgUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/queen-elizabeth-ii-arrives-at-the-queen-elizabeth-ii-news-photo-1641826061.jpg?crop=0.685xw:1.00xh;0.184xw,0&resize=640:*"
+                    },
+                    {
+                        "story": "यूके में भारतीय रेस्तरां एक यादृच्छिक चीज हैं। यह अनुमान है कि नई दिल्ली या मुंबई जैसे भारतीय शहरी केंद्रों की तुलना में लंदन में अधिक भारतीय रेस्तरां हैं",
+                        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/74/71/46/taste-of-india.jpg"
+                    },
+                    {
+                        "story": "इंग्लैंड में कोई भी पहाड़ एक हजार मीटर से अधिक ऊंचा नहीं है।",
+                        "imgUrl": "https://www.worldatlas.com/r/w768/upload/8e/8f/2e/scafell-pike.jpg"
+                    },
+                    {
+                        "story": "हालांकि यू.के. अपने बरसात के मौसम के लिए जाना जाता है, 2003 में केंट में तापमान 38.5 डिग्री सेल्सियस दर्ज किया गया था।",
+                        "imgUrl": "https://i.guim.co.uk/img/media/1358944852aa25ab9dd70124932fadee70174dbf/0_333_5178_3107/master/5178.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=24b0f033814434d0b7283380a8290c1b"
+                    },
+                    {
+                        "story": "यूके में सभी घोड़ों के पास पासपोर्ट होना चाहिए।",
+                        "imgUrl": "https://media.istockphoto.com/photos/chestnut-horse-standing-in-field-picture-id176986077?k=20&m=176986077&s=612x612&w=0&h=n7WnAONQ225wCC8XVVNP9qZfL4N-1fwnc49zu4cqfaE="
+                    },
+                    {
+                        "story": "1066 से 1362 तक लगभग 300 वर्षों तक ब्रिटेन में फ्रेंच आधिकारिक भाषा थी",
+                        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEHbFBKQv-EEyMiDPhYw4luluFm_JHrTXMw&usqp=CAU"
+                    },
+                    {
+                        "story": "यूके एक विशाल देश है, लेकिन आप चाहे कहीं भी रहें, आप समुद्र से 115 किमी से अधिक दूर नहीं होंगे",
+                        "imgUrl": "https://www.webuildvalue.com/wp-content/uploads/porti-regno-unito.jpg"
+                    }
+                ]
+            }
         }
-        
     ]
 }
-
