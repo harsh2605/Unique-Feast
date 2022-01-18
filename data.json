@@ -1,35 +1,98 @@
 {
     "details" :[
         {
-            "cont_name": "India",
-            "cout_img": "URL",
+            "cont_name": "Pakistan",
+            "cout_img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Badshahi_Mosque_July_1_2005_pic32_by_Ali_Imran_%281%29.jpg",
             "english":{
                 "facts":[
                     {
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
+                        "story": "Pakistan also has one of the oldest civilizations in history, Mehrgarh, dating back to 6000 B.C. Mehrgarh is now seen as a precursor to the Indus Valley Civilization. It is one of the earliest sites with evidence of farming and herding in South Asia.",
+                        "imgUrl": "https://live.staticflickr.com/1658/24054845255_bcdb9ca37d_c.jpg"
                     },
                     {
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
+                        "story": "Pakistan has the highest paved international road – Also called the eighth wonder of the world or the China-Pakistan friendship highway the Karakoram Highway is the highest road ever built. The road runs for 800 miles from Abbottabad in Pakistan to Kashgar in Xinjiang, West China. The highest point of the road lies at the Khunjerab Pass at 4800 meters. Every turn of the highway is accompanied by incredible views as the path runs though hills, mountains, valleys, glaciers and along lakes and rivers.",
+                        "imgUrl": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2018/01/kkh.jpg"
     
                     },
                     {
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
-    
+                        "story": "Some of the highest mountains in the world are located in Pakistan. The world's second-tallest mountain is in the country and has many names: Dapsang or Chogori locally, Mount Godwin-Austen in English and Qogir Fengin Chinese. But most people know it simply as K2, standing at 8,611 meters, or 28,251 feet.",
+                        "imgUrl": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2018/01/k2_nordseite.jpg"
+                    },
+                    {
+                        "story": " The world's first PC virus was created by two Pakistani brothers. Basit Farooq Alvi and Amjad Farooq Alvi created 'Brain', which was discovered in 19 January 1986 and targeted IBM PC platforms.",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Brain-virus.jpg/1200px-Brain-virus.jpg"
+                    },
+                    {
+                        "story": "Speaking of heights, the ATM at the world's highest elevation belongs to the National Bank of Pakistan and sits in the Khunjerab Pass, in Gilgit-Baltistan. It was established in November 2016 and is 15,397 feet above sea level.",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Worlds-highest-atm.jpg"
+                    },
+                    {
+                        "story": "Benazir Bhutto was a Pakistani politician who served as the 11th and 13th prime minister of Pakistan from 1988 to 1990 and from 1993 to 1996. She was the first woman to head a democratic government in a Muslim majority country.",
+                        "imgUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/6195/production/_97618942_65e4409c-4b72-4d4b-b179-75c30c4ee4b4.jpg"
+                    },
+                    {
+                        "story": "Home to the youngest Nobel Laureate. Pakistan’s pride Malala Yousufzai is the youngest Nobel Prizewinner in the world who was awarded the honor for championing universal education even after being shot by the Taliban at the age of 15 for reporting on the situation of girl’s education in her city. ",
+                        "imgUrl": "https://m.media-amazon.com/images/I/61fdUHquRHL._SL1080_.jpg"
+                    },
+                    {
+                        "story": "They also have a rare species of ‘Blind Dolphin’ found in the water of Indus River. It is the second most endangered freshwater dolphin species in the world, the first being the ‘functionally extinct’ Yangtze River dolphin.",
+                        "imgUrl": "https://1.bp.blogspot.com/-OB7WVJtvdHI/W_Eb1goaGfI/AAAAAAAA9ek/jgpcCNmkmjIZDs7B1jvT-na9i_AELnjUwCEwYBhgL/s1600/Ganges_River_Dolphin_2.jpg"
+                    },
+                    {
+                        "story": "The Shah Faisal Mosque in Pakistan can accommodate 100,000 worshipers at a time. It was the largest mosque in the world from 1986 until 1993.",
+                        "imgUrl": "https://wallpapercave.com/wp/wp7353516.jpg"
+                    },
+                    {
+                        "story": "The ‘Khewra Salt Mine’ in Pakistan is the second largest and oldest salt mine in the world.The Khewra Salt Mine is in Khewra, north of Pind Dadan Khan, an administrative subdivision of Jhelum District, Punjab Region, Pakistan. The mine is in the Salt Range, Potohar plateau, which rises from the Indo-Gangetic Plain",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg"
                     }
+                    
                 ]
             },
             "regional":{
-                "reg_name": "",
+                "reg_name": "Urdu",
                 "facts":[
                     {
-                        "title": "AHDJSWHGF",
-                        "tag": "General",
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
+                        "story": "پاکستان میں تاریخ کی قدیم ترین تہذیبوں میں سے ایک مہر گڑھ بھی ہے جو کہ 6000 قبل مسیح کی ہے۔ مہر گڑھ کو اب وادی سندھ کی تہذیب کے پیش خیمہ کے طور پر دیکھا جاتا ہے۔ یہ جنوبی ایشیا میں کھیتی باڑی اور گلہ بانی کے ثبوت کے ساتھ قدیم ترین مقامات میں سے ایک ہے۔",
+                        "imgUrl": "https://live.staticflickr.com/1658/24054845255_bcdb9ca37d_c.jpg"
     
+                    },
+                    {
+                        "story": "پاکستان کے پاس سب سے زیادہ پختہ بین الاقوامی سڑک ہے - جسے دنیا کا آٹھواں عجوبہ بھی کہا جاتا ہے یا چین پاکستان دوستی کی شاہراہ قراقرم ہائی وے اب تک کی سب سے اونچی سڑک ہے۔ یہ سڑک پاکستان کے ایبٹ آباد سے مغربی چین کے سنکیانگ میں کاشغر تک 800 میل تک جاتی ہے۔ سڑک کا سب سے اونچا مقام خنجراب پاس پر 4800 میٹر پر واقع ہے۔ شاہراہ کا ہر موڑ ناقابل یقین نظاروں کے ساتھ ہے کیونکہ راستہ پہاڑیوں، پہاڑوں، وادیوں، گلیشیئرز اور جھیلوں اور ندیوں کے ساتھ ساتھ چلتا ہے۔",
+                        "imgUrl": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2018/01/kkh.jpg"
+    
+                    },
+                    {
+                        "story": "دنیا کے چند بلند ترین پہاڑ پاکستان میں واقع ہیں۔ دنیا کا دوسرا سب سے اونچا پہاڑ ملک میں ہے اور اس کے بہت سے نام ہیں: مقامی طور پر ڈپسنگ یا چوگوری، انگریزی میں ماؤنٹ گوڈون آسٹن اور چینی میں کوگیر فینگن۔ لیکن زیادہ تر لوگ اسے صرف K2 کے نام سے جانتے ہیں، جو 8,611 میٹر یا 28,251 فٹ پر کھڑا ہے۔",
+                        "imgUrl": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2018/01/k2_nordseite.jpg"
+                    },
+                    {
+                        "story": "دنیا کا پہلا پی سی وائرس دو پاکستانی بھائیوں نے بنایا۔ باسط فاروق علوی اور امجد فاروق علوی نے 'برین' بنایا، جو 19 جنوری 1986 میں دریافت ہوا اور آئی بی ایم پی سی پلیٹ فارمز کو نشانہ بنایا۔",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Brain-virus.jpg/1200px-Brain-virus.jpg"
+                    },
+                    {
+                        "story": "بلندیوں کی بات کریں تو، دنیا کی سب سے بلندی پر واقع اے ٹی ایم کا تعلق نیشنل بینک آف پاکستان سے ہے اور یہ گلگت بلتستان میں خنجراب پاس میں واقع ہے۔ یہ نومبر 2016 میں قائم کیا گیا تھا اور سطح سمندر سے 15,397 فٹ بلند ہے۔",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Worlds-highest-atm.jpg"
+                    },
+                    {
+                        "story": "بے نظیر بھٹو ایک پاکستانی سیاست دان تھیں جنہوں نے 1988 سے 1990 اور 1993 سے 1996 تک پاکستان کی 11ویں اور 13ویں وزیر اعظم کے طور پر خدمات انجام دیں۔ وہ مسلم اکثریتی ملک میں جمہوری حکومت کی سربراہی کرنے والی پہلی خاتون تھیں۔",
+                        "imgUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/6195/production/_97618942_65e4409c-4b72-4d4b-b179-75c30c4ee4b4.jpg"
+                    },
+                    {
+                        "story": "سب سے کم عمر نوبل انعام یافتہ کا گھر۔ پاکستان کی فخر ملالہ یوسف زئی دنیا کی سب سے کم عمر نوبل انعام یافتہ ہیں جنہیں اپنے شہر میں لڑکیوں کی تعلیم کی صورتحال کے بارے میں رپورٹنگ کرنے پر 15 سال کی عمر میں طالبان کے ہاتھوں گولی مار دیے جانے کے بعد بھی عالمگیر تعلیم کو چیمپیئن کرنے پر یہ اعزاز دیا گیا۔",
+                        "imgUrl": "https://m.media-amazon.com/images/I/61fdUHquRHL._SL1080_.jpg"
+                    },
+                    {
+                        "story": "ان کے پاس دریائے سندھ کے پانی میں ’بلائنڈ ڈولفن‘ کی نایاب نسل بھی پائی جاتی ہے۔ یہ دنیا کی دوسری سب سے زیادہ خطرے سے دوچار میٹھے پانی کی ڈولفن کی نسل ہے، پہلی 'فعال طور پر معدوم' یانگسی دریائے ڈولفن ہے۔",
+                        "imgUrl": "https://1.bp.blogspot.com/-OB7WVJtvdHI/W_Eb1goaGfI/AAAAAAAA9ek/jgpcCNmkmjIZDs7B1jvT-na9i_AELnjUwCEwYBhgL/s1600/Ganges_River_Dolphin_2.jpg"
+                    },
+                    {
+                        "story": "پاکستان کی شاہ فیصل مسجد میں ایک وقت میں ایک لاکھ نمازیوں کے بیٹھنے کی گنجائش ہے۔ یہ 1986 سے 1993 تک دنیا کی سب سے بڑی مسجد تھی۔",
+                        "imgUrl": "https://wallpapercave.com/wp/wp7353516.jpg"
+                    },
+                    {
+                        "story": "پاکستان میں 'کھیوڑہ سالٹ مائن' دنیا کی دوسری سب سے بڑی اور قدیم ترین نمک کی کان ہے۔ کھیوڑہ سالٹ مائن کھیوڑہ میں ہے، پنڈ دادن خان کے شمال میں، ضلع جہلم، پنجاب ریجن، پاکستان کے ایک انتظامی سب ڈویژن۔ یہ کان سالٹ رینج، پوٹھوہار سطح مرتفع میں ہے، جو ہند گنگا کے میدان سے نکلتی ہے۔",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg"
                     }
                 ]
             },
@@ -37,13 +100,51 @@
                 "hi_name": "",
                 "facts":[
                     {
-                        "title": "AHDJSWHGF",
-                        "tag": "General",
-                        "story": "dsgfasdgf",
-                        "imgUrl": "dsahfdh"
+                        "story": "पाकिस्तान में इतिहास की सबसे पुरानी सभ्यताओं में से एक है, मेहरगढ़, जो 6000 ईसा पूर्व की है। मेहरगढ़ को अब सिंधु घाटी सभ्यता के अग्रदूत के रूप में देखा जाता है। यह दक्षिण एशिया में खेती और पशुपालन के साक्ष्य वाले शुरुआती स्थलों में से एक है।",
+                        "imgUrl": "https://live.staticflickr.com/1658/24054845255_bcdb9ca37d_c.jpg"
+                    },
+                    {
+                        "story": "पाकिस्तान में सबसे ऊंची पक्की अंतरराष्ट्रीय सड़क है - जिसे दुनिया का आठवां अजूबा या चीन-पाकिस्तान दोस्ती राजमार्ग भी कहा जाता है, काराकोरम राजमार्ग अब तक की सबसे ऊंची सड़क है। यह सड़क पाकिस्तान के एबटाबाद से पश्चिम चीन के शिनजियांग के काशगर तक 800 मील तक चलती है। सड़क का उच्चतम बिंदु 4800 मीटर पर खुंजेराब दर्रे पर स्थित है। राजमार्ग का हर मोड़ अविश्वसनीय दृश्यों के साथ है क्योंकि पथ पहाड़ियों, पहाड़ों, घाटियों, हिमनदों और झीलों और नदियों के साथ चलता है।",
+                        "imgUrl": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2018/01/kkh.jpg"
+    
+                    },
+                    {
+                        "story": "दुनिया के कुछ सबसे ऊंचे पहाड़ पाकिस्तान में स्थित हैं। दुनिया का दूसरा सबसे ऊंचा पर्वत देश में है और इसके कई नाम हैं: स्थानीय रूप से दपसांग या चोगोरी, अंग्रेजी में माउंट गॉडविन-ऑस्टेन और कोगीर फेंगिन चीनी। लेकिन ज्यादातर लोग इसे K2 के नाम से जानते हैं, जिसकी ऊंचाई 8,611 मीटर या 28,251 फीट है।",
+                        "imgUrl": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2018/01/k2_nordseite.jpg"
+                    },
+                    {
+                        "story": "दुनिया का पहला पीसी वायरस दो पाकिस्तानी भाइयों ने बनाया था। बासित फारूक अल्वी और अमजद फारूक अल्वी ने 'ब्रेन' बनाया, जिसे 19 जनवरी 1986 में खोजा गया और आईबीएम पीसी प्लेटफॉर्म को लक्षित किया।",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Brain-virus.jpg/1200px-Brain-virus.jpg"
+                    },
+                    {
+                        "story": "ऊंचाई की बात करें तो दुनिया के सबसे ऊंचे स्थान पर स्थित एटीएम नेशनल बैंक ऑफ पाकिस्तान का है और गिलगित-बाल्टिस्तान में खुंजेरब दर्रे में स्थित है। यह नवंबर 2016 में स्थापित किया गया था और समुद्र तल से 15,397 फीट ऊपर है।",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Worlds-highest-atm.jpg"
+                    },
+                    {
+                        "story": "बेनज़ीर भुट्टो एक पाकिस्तानी राजनेता थीं, जिन्होंने 1988 से 1990 और 1993 से 1996 तक पाकिस्तान के 11वें और 13वें प्रधान मंत्री के रूप में कार्य किया। वह मुस्लिम बहुल देश में लोकतांत्रिक सरकार का नेतृत्व करने वाली पहली महिला थीं।",
+                        "imgUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/6195/production/_97618942_65e4409c-4b72-4d4b-b179-75c30c4ee4b4.jpg"
+                    },
+                    {
+                        "story": "सबसे कम उम्र के नोबेल पुरस्कार विजेता का घर। पाकिस्तान की गौरव मलाला यूसुफजई दुनिया की सबसे कम उम्र की नोबेल पुरस्कार विजेता हैं, जिन्हें अपने शहर में लड़कियों की शिक्षा की स्थिति पर रिपोर्टिंग के लिए 15 साल की उम्र में तालिबान द्वारा गोली मारे जाने के बाद भी सार्वभौमिक शिक्षा के लिए सम्मान से सम्मानित किया गया था। ",
+                        "imgUrl": "https://m.media-amazon.com/images/I/61fdUHquRHL._SL1080_.jpg"
+                    },
+                    {
+                        "story": "उनके पास सिंधु नदी के पानी में पाई जाने वाली 'ब्लाइंड डॉल्फिन' की एक दुर्लभ प्रजाति भी है। यह दुनिया की दूसरी सबसे लुप्तप्राय मीठे पानी की डॉल्फ़िन प्रजाति है, पहली 'कार्यात्मक रूप से विलुप्त' यांग्त्ज़ी नदी डॉल्फ़िन है।",
+                        "imgUrl": "https://1.bp.blogspot.com/-OB7WVJtvdHI/W_Eb1goaGfI/AAAAAAAA9ek/jgpcCNmkmjIZDs7B1jvT-na9i_AELnjUwCEwYBhgL/s1600/Ganges_River_Dolphin_2.jpg"
+                    },
+                    {
+                        "story": "पाकिस्तान में शाह फैसल मस्जिद में एक बार में 100,000 उपासक बैठ सकते हैं। यह 1986 से 1993 तक दुनिया की सबसे बड़ी मस्जिद थी।",
+                        "imgUrl": "https://wallpapercave.com/wp/wp7353516.jpg"
+                    },
+                    {
+                        "story": "पाकिस्तान में 'खेवड़ा नमक की खान' दुनिया की दूसरी सबसे बड़ी और सबसे पुरानी नमक की खान है। खेवड़ा नमक की खान, झेलम जिले, पंजाब क्षेत्र, पाकिस्तान के एक प्रशासनिक उपखंड, पिंड दादन खान के उत्तर में खेवड़ा में है। खदान नमक रेंज, पोटोहर पठार में है, जो भारत-गंगा के मैदान से निकलती है",
+                        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg"
                     }
                 ]
             }
+            
+        },
+        {
             
         }
         
